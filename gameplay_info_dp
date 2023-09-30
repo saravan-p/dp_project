@@ -1,0 +1,36 @@
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+
+def laplace_mechanism(value, epsilon, sensitivity):
+    scale = sensitivity / epsilon
+    noise = np.random.laplace(0, scale)
+    return value + noise
+
+def utility_metric(original_values, noisy_values):
+    return np.mean(np.abs(np.array(original_values) - np.array(noisy_values)))
+
+# Load the dataset
+data = pd.read_csv('synthetic_dataset.csv')
+gameplay_info = data['Gameplay_Info']
+
+# Define privacy parameters
+epsilon_values = np.logspace(-3, 0, 50)  # 50 points between 0.001 and 1
+sensitivity = 1  # Set this value based on your data and desired level of privacy
+
+# Calculate the utility metric for each epsilon value
+utility_metrics = []
+
+for epsilon in epsilon_values:
+    noisy_gameplay_info = [laplace_mechanism(info, epsilon, sensitivity) for info in gameplay_info]
+    mae = utility_metric(gameplay_info, noisy_gameplay_info)
+    utility_metrics.append(mae)
+
+# Plot the utility vs privacy graph
+plt.plot(epsilon_values, utility_metrics)
+plt.xscale('log')
+plt.xlabel('Privacy (epsilon)')
+plt.ylabel('Utility (Mean Absolute Error)')
+plt.title('Utility vs Privacy for Gameplay_Info in synthetic_dataset.csv')
+plt.grid(True)
+plt.show()

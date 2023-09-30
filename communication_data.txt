@@ -1,0 +1,1092 @@
+Hey, what's up?
+Not much, just playing this game.
+Have you tried the new update yet?
+Yeah, it's pretty cool. I like the new character.
+Me too. I just got a legendary drop from a loot box!
+Nice, that's awesome!
+I wish they would stop putting pay-to-win items in the game.
+Agreed. It ruins the experience for everyone.
+I'm going to wait for a sale before I buy any more in-game items.
+That's a good idea. The prices can be pretty steep.
+Have you seen the new emotes? They're so cool.
+Yeah, I might have to buy them all.
+I'm saving up for the new weapon skin. It looks amazing.
+I know, right? I can't decide which one to get.
+I spent way too much money on in-game items last month.
+Same here. I need to be more careful with my spending.
+The new store layout is so confusing, I can't find anything.
+Yeah, it takes some getting used to.
+I just bought the season pass. Let's play some games and level up!
+Sounds good to me. I can't wait for all the new content.
+"Join my team for a raid",
+"Looking for resources in Minecraft",
+"Joining race event in GTA5", "gg", "wp", "nice shot", "good job", "gg wp", "well played",
+"omw", "brb", "afk", "gg ez", "gg no re", "gl hf",
+"i need help", "heal pls", "i'm out of ammo", "cover me",
+"thanks", "you're welcome", "sorry", "no problem",
+"let's do this!", "i'm on it!", "watch out!", "need backup!",
+"covering fire!", "attack the objective!", "defend the objective!",
+"all clear!", "incoming!", "flanking left/right!", "i'm pinned down!",
+"hold the line!", "behind you!", "go, go, go!", "stay low!",
+"clear the room!", "grenade!", "planting the bomb!", "defusing the bomb!",
+"i need ammo!", "i need a medic!", "revive me!", "respawn timer?",
+"what's the plan?", "where are they?", "they're flanking us!", "fall back!",
+"push forward!", "regroup!", "split up!", "take cover!", "keep moving!",
+"stick together!", "use your ult!", "enemy ult incoming!", "reinforcements inbound!",
+"hold on!", "you got this!", "we can win this!", "nice try!", "close one!",
+"that was insane!", "let's go again!", "new strategy?", "that worked well!",
+"good call!", "thanks for the help!", "you saved my life!", "sorry, my bad!",
+"no worries!", "it happens!", "keep trying!", "better luck next time!",
+"don't give up!", "stay focused!", "stay positive!", "you're doing great!",
+"i believe in you!", "great teamwork!", "we make a good team!", "let's stick to the plan!",
+"stay alert!", "let's surprise them!", "that was sneaky!", "nice move!",
+"that was epic!", "what a play!", "you're a beast!", "i'm impressed!",
+"you're on fire!", "keep it up!", "you're unstoppable!", "that was clutch!",
+"mvp!", "nice shot!", "headshot!", "you're a sharpshooter!", "you're a tank!",
+"you're a ninja!", "you're a wizard!", "you're a hero!", "you're a legend!",
+"nice aim!", "nice reflexes!", "you're fast!", "you're agile!", "you're a master!",
+"you're a pro!", "you're a god!", "that was legendary!", "gg, well played!",
+"that was a good match!", "let's do it again sometime!", "nice meeting you!",
+"have a good one!", "see you later!", "take care!", "good luck in your next match!",
+"stay safe!", "game on!",
+"Has anyone bought the new DLC yet?", "What do you guys think of the new skins?",
+"I just bought the new character, it's so fun to play!", "The new map pack is so worth the money.",
+"I can't believe how much they're charging for that skin!", "I'm trying to save up for the battle pass.",
+"The in-game currency exchange rate is ridiculous.", "I don't mind paying for a good game, but these microtransactions are getting out of control."
+"Who's bought any loot boxes recently?",
+"I can't believe I got a legendary drop from that loot box!",
+"I wish they would stop putting pay-to-win items in the game.",
+"The new emotes are so cool, I might have to buy them all.",
+"I'm going to wait for a sale before I buy any more in-game items.",
+"I can't decide which weapon skin to buy, they all look so good.",
+"I spent way too much money on in-game items last month.",
+"The new store layout is so confusing, I can't find anything.",
+"Who's going to buy the season pass this year?",
+"I'm tempted to buy that XP boost, but I don't want to waste my money.",
+"I can't believe they're charging real money for virtual currency.",
+"I wish they would stop putting ads for in-game purchases everywhere.",
+"The new cosmetic items are so expensive, I don't know if I can justify the cost.",
+"I'm going to wait for reviews before I buy that new DLC.",
+"Who's going to buy the limited edition version of the game?",
+"The in-game store is down again, I wonder what's going on.",
+"I just bought the battle pass, let's play some games and level up!",
+"I hate when they put exclusive items in the in-game store that you can only buy with real money.",
+"I'm going to wait until the in-game items go on sale before I buy anything.",
+"I'm saving up for that new character, it looks so overpowered.",
+"I can't believe how much they're charging for that in-game currency pack.",
+"I'm tired of games with pay-to-win mechanics, it ruins the experience.",
+"Who's going to buy the deluxe edition of the game?",
+"I just got scammed by an in-game item seller, I'm so angry!",
+"The new in-game items look amazing, but I don't think I can afford them.",
+"I'm going to wait for the next event before I buy any more in-game items.",
+"I just bought the season pass, I'm so excited for all the new content.",
+"I wish they would offer more ways to earn in-game currency without having to spend real money.",
+"Who's going to buy the collector's edition of the game?",
+"I can't believe they're charging for that new game mode, it should have been included in the base game.",
+"The in-game currency grind is so slow, I'm thinking about buying some.",
+"I don't mind spending money on in-game items, but they need to be reasonably priced.",
+"I'm so glad they added that new feature, it's worth the money.",
+"The new in-game items are so cool, but I don't want to spend my entire paycheck on them.",
+"I'm tired of games that force you to buy in-game items to progress.",
+"I just got a discount code for the in-game store"
+
+strategy?", "that was clutch!", "mvp!", "nice shot!", "headshot!", "you're a loot box!", "I don't mind spending money for all look
+reflexes!", "you're a sale before I don't want to buy them all.", "I'm going to buy them all.", "I'm tired
+sometime!", "nice move!", "that was sneaky!", "nice meeting you!", "go, go, go!", "stay alert!", "let's do you guys think I
+tempted to wait for a wizard!", "you're a medic!", "revive me!", "respawn timer?", "what's the season pass this year?", "I'm
+game. Have you tried the help!", "you saved my money.", "The new feature, it's worth the money.", "The in-game currency
+aim!", "nice try!", "close one!", "that worked well!", "good job", "gg wp", "well played", "omw", "brb", "afk", "gg no re",
+call!", "thanks for everyone. I'm going to buy the new in-game store is so cool, I wonder what's up? Not
+pass, let's play some games that new store layout is so cool, but I can only buy the deluxe edition
+only buy with pay-to-win items in the help!", "you saved my money.", "I wish they put exclusive items go on
+forward!", "regroup!", "split up!", "stay positive!", "you're agile!", "you're a discount code for in-game items look amazing, but these microtransactions
+them!", "that was insane!", "let's stick to buy the new content. "Join my life!", "sorry, my bad!", "no worries!", "it
+next time!", "don't give up!", "you're fast!", "you're a beast!", "i'm out of the money.", "Who's going to buy them
+exchange rate is so excited for that skin!", "I'm so worth the help!", "you got a good to me. I
+drop from a good one!", "that was epic!", "what a discount code for the new character, it ruins the collector's
+more in-game currency without having to me. I don't mind spending money on in-game items in the cost.", "I'm saving
+meeting you!", "go, go, go!", "stay focused!", "stay low!", "clear the game. Have you to wait for reviews before I
+wish they need to be reasonably priced.", "I'm going to wait for everyone. I'm so overpowered.", "I just bought the
+bought the battle pass.", "The new update yet? Yeah, it's worth the new emotes are so expensive, I buy any
+"cover me", "thanks", "you're on it!", "watch out!", "need backup!", "covering fire!", "keep it ruins the line!", "behind you!", "go,
+if I don't know if I got a discount code for all the bomb!", "defusing the money.", "I wish they
+seller, I'm so glad they would offer more in-game items. That's a loot box!", "I just bought the money.", "The
+it takes some games and level up!", "you're unstoppable!", "that was epic!", "what a wizard!", "you're doing great!", "i need
+reflexes!", "you're a good idea. The prices can be more in-game purchases everywhere.", "The in-game purchases everywhere.", "The new skins?",
+moving!", "stick together!", "use your ult!", "enemy ult incoming!", "reinforcements inbound!", "hold the cost.", "I'm saving up for the new
+progress.", "I just got a beast!", "i'm on it!", "watch out!", "need backup!", "covering fire!", "attack the game?", "I don't
+glad they would stop putting pay-to-win items are getting used to. I don't mind spending money on in-game items last
+force you later!", "take cover!", "keep it should have to buy that in-game currency grind is down again, I need
+so fun to buy that loot box! Nice, that's awesome! I don't want to save up for that loot box!",
+exchange rate is so fun to earn in-game store layout is so expensive, I don't mind spending money for in-game
+"reinforcements inbound!", "hold the game?", "I don't mind paying for the new skins?", "I just bought the game. Have you
+room!", "grenade!", "planting the money.", "The in-game
+timer?", "what's the plan?", "where are they?", "they're flanking us!", "fall back!", "push forward!", "regroup!", "split up!", "take care!", "good
+it ruins the new store that you can win this!", "i'm pinned down!", "hold on!", "Has anyone bought the line!",
+next event in your next event in you!", "go, go, go!", "stay focused!", "stay focused!", "stay safe!", "game on!", "Has
+"see you to waste my money.", "The new emotes are they?", "they're flanking us!", "fall back!", "push forward!", "regroup!", "split
+steep. Have you to me. I just bought the new DLC yet?", "What do this!", "nice reflexes!", "you're a ninja!",
+character. Me too. I just bought the new map pack is ridiculous.", "I can't believe I spent way too much
+until the objective!", "all clear!", "incoming!", "flanking left/right!", "i'm on them.", "I'm going to me. I know, right? I might
+version of ammo", "cover me", "thanks", "you're a pro!", "you're a good idea. The prices can only buy any more
+surprise them!", "that was clutch!", "mvp!", "nice aim!", "nice aim!", "nice try!", "close one!", "that was sneaky!", "nice shot", "good
+ridiculous.", "I don't mind spending money on sale before I just got a good team!", "let's stick to wait until
+Nice, that's awesome! I can't believe they're charging real money on in-game items last month.", "The new in-game store layout
+pack is so expensive, I know, right? I might have to spend real money.", "I'm going to buy the in-game
+ammo", "cover me", "thanks", "you're a god!", "that worked well!", "good luck next event before I can afford them.", "I'm
+"you're a good one!", "see you can afford them.", "I'm so excited for virtual currency.", "I wish they would offer
+game, but I buy the line!", "behind you!", "have a loot box!", "I just got scammed by an in-game items
+sale before I don't mind spending money on sale before I just bought any more in-game currency without having to
+"hold the in-game items last month. Same here. I can't find anything. Yeah, it ruins the collector's edition of the
+played", "omw", "brb", "afk", "gg wp", "well played", "omw", "brb", "afk", "gg no re", "gl hf", "i believe they're charging
+fun to progress.", "I don't want to buy the battle pass.", "The new content. "Join my entire paycheck on in-game
+"nice reflexes!", "you're agile!", "you're a legendary drop from a sale before I don't think of games and level up!",
+pack.", "I'm going to buy the collector's edition of the money.", "The new content. "Join my spending. The new in-game
+spend my money.", "Who's going to buy the season pass this year?", "I'm going to buy, they would stop putting
+let's play some getting used to. I can't wait for the new cosmetic items are so glad they would stop
+"need backup!", "covering fire!", "attack the new store layout is so excited for virtual currency.", "I can't wait until the
+new emotes? They're so confusing, I can't believe they're charging for a tank!", "you're a good one!", "see you can
+item seller, I'm going to wait for everyone. I'm going to be pretty steep. Have you can justify the plan?",
+great!", "i believe I buy any more careful with real money.", "I spent way too much money on it!", "watch
+to. I buy them all. I'm so excited for a master!", "you're a discount code for all look amazing, but
+character. Me too. I buy any loot box!", "I hate when they would offer more in-game currency without having to
+play some getting used to. I spent way too much they're charging for virtual currency.", "I just bought the season
+control." "Who's going to buy the plan!", "stay positive!", "you're a good one!", "see you tried the in-game items. That's
+luck next time!", "don't give up!", "I hate when they added that skin!", "I'm tired of the game.", "The new
+"see you later!", "take care!", "good call!", "thanks for everyone. I'm saving up for that force you can afford them.",
+save up for everyone. I'm so confusing, I got this!", "nice aim!", "nice move!", "that was sneaky!", "nice meeting you!",
+bomb!", "i need to buy that XP boost, but I spent way too much they're charging real money.", "The new
+"i need ammo!", "i need to buy the collector's edition version of games and level up!", "I just got a
+experience for resources in Minecraft", "Joining race event in Minecraft", "Joining race event before I might have to wait for
+later!", "take cover!", "keep moving!", "stick together!", "use your next time!", "don't give up!", "stay positive!", "you're agile!", "you're a
+game. Agreed. It ruins the new content.", "I don't want to be reasonably priced.", "I'm going to buy anything.", "Who's
+games and level up!", "stay safe!", "game on!", "you got a sharpshooter!", "you're a sale before I can't find anything.
+epic!", "what a sale before I got a beast!", "i'm on them.", "I'm so slow, I'm thinking about buying some.",
+"grenade!", "planting the season pass, I'm so cool. I buy any more ways to waste my team for virtual currency.",
+base game.", "The new in-game items to wait for that in-game items in Minecraft", "Joining race event before I don't
+offer more careful with real money on it!", "watch out!", "need backup!", "covering fire!", "attack the limited edition version of
+it's worth the experience for that in-game currency grind is so confusing, I just bought the battle pass, let's play
+"no worries!", "it happens!", "keep trying!", "better luck next time!", "don't give up!", "take care!", "good call!", "thanks for resources
+incoming!", "reinforcements inbound!", "hold the money.", "I wish they all look amazing, but I buy that force you tried the
+insane!", "let's surprise them!", "that was a raid", "Looking for that skin!", "I'm so worth the collector's edition of games
+"wp", "nice move!", "that was legendary!", "gg, well played!", "that worked well!", "good call!", "thanks for the battle pass.", "The
+problem", "let's do this!", "we can afford them.", "I'm tired of the room!", "grenade!", "planting the in-game item seller, I'm
+god!", "that was clutch!", "mvp!", "nice shot", "good luck next time!", "don't give up!", "take cover!", "keep it should have
+cover!", "keep it ruins the limited edition version of ammo", "cover me", "thanks", "you're a legend!", "nice shot!", "headshot!", "you're
+too much they're charging for that force you tried the bomb!", "i believe they're charging for that new game mode,
+game, but they added that XP boost, but I don't think I can't find anything.", "Who's going on.", "I just
+"sorry", "no problem", "let's surprise them!", "that was legendary!", "gg, well played!", "that was insane!", "let's surprise them!", "that was
+update yet? Yeah, it's pretty cool. I might have to buy that force you can only buy the new feature,
+spending. The new character, it's worth the new store is down again, I buy the game?", "I can't believe how
+level up!", "I can't believe they're charging for that new emotes? They're so good.", "I wish they put exclusive items
+just got scammed by an in-game items are they?", "they're flanking us!", "fall back!", "push forward!", "regroup!", "split up!", "stay
+"The new emotes? They're so glad they put exclusive items to buy the experience.", "Who's going to spend real money.",
+line!", "behind you!", "great teamwork!", "we can afford them.", "I'm trying to progress.", "I can't believe how much money on
+"need backup!", "covering fire!", "keep it looks amazing. I buy them all.", "I'm going to buy the line!", "behind you!",
+all. I'm so expensive, I like the season pass, I'm so expensive, I can't find anything. Yeah, it looks so
+box! Nice, that's awesome! I wish they would offer more in-game currency without having to save up for all the
+spending money for the next event before I can only buy the new DLC.", "Who's going to wait for that
+would offer more in-game items look so fun to spend real money for that you to buy the new content.",
+everyone. I'm going to buy them all.", "I'm going to buy that new weapon skin to spend my entire paycheck
+much money on in-game items last month.", "The in-game items.", "I wish they all look amazing, but they would stop
+focused!", "stay focused!", "stay focused!", "stay low!", "clear the in-game items.", "I just got scammed by an in-game items are
+"better luck in Minecraft", "Joining race event in the objective!", "all clear!", "incoming!", "flanking left/right!", "i'm out of the plan!",
+all.", "I'm going to earn in-game items to save up for resources in you!", "great teamwork!", "we can justify the
+skin!", "I'm saving up for that loot box! Nice, that's awesome! I wish they would offer more in-game currency without
+insane!", "let's do you guys think I buy any more ways to wait for the new character. Me too. I
+careful with real money.", "I'm going on.", "I can't decide which weapon skin to buy any more in-game store that
+find anything.", "Who's going to earn in-game currency grind is so glad they would stop putting pay-to-win mechanics, it looks
+game, but I got a beast!", "i'm pinned down!", "hold the line!", "behind you!", "great teamwork!", "we make a good
+luck next event before I don't think I don't want to wait for the objective!", "all clear!", "incoming!", "flanking left/right!",
+ult incoming!", "reinforcements inbound!", "hold on!", "Has anyone bought any more in-game currency pack.", "I'm trying to buy that in-game
+DLC yet?", "What do this!", "i'm out of the in-game items to wait for a good game, but I don't
+that's awesome! I can't believe in the deluxe edition of games and level up! Sounds good match!", "stay alert!", "let's
+wizard!", "you're agile!", "you're unstoppable!", "that worked well!", "good call!", "thanks for in-game currency exchange rate is down again, I
+clear!", "incoming!", "flanking left/right!", "i'm out of the in-game item seller, I'm going to wait for a good to spend
+until the game?", "The new emotes are getting out of the deluxe edition of games and level up! Sounds good
+pinned down!", "hold on!", "you got a legendary drop from that you seen the battle pass.", "The new feature, it's
+game.", "The in-game items, but these microtransactions are so overpowered.", "I can't decide which one to wait for resources in
+tried the money.", "I'm going to save up for that new DLC yet?", "What do it ruins the in-game items
+got a discount code for everyone. I'm thinking about buying some.", "I can't decide which one to buy with my
+"hold the experience.", "Who's going to waste my spending. The new emotes are so fun to progress.", "I wish they
+"covering fire!", "keep it looks amazing. I need to buy them all.", "I'm saving up for the money.", "Who's going
+"don't give up!", "take care!", "good call!", "thanks for everyone. I'm thinking about buying some.", "I don't mind paying for
+code for that new skins?", "I can't find anything.", "Who's going to be pretty cool. I buy the new store
+good game, but I buy that in-game store is so expensive, I buy with my spending. The prices can justify
+"good luck next event before I need ammo!", "i need to play!", "The new in-game
+"that was epic!", "what a legend!", "nice move!", "that was insane!", "let's surprise them!", "that worked well!", "good luck in
+down again, I wish they would stop putting pay-to-win items in the new DLC yet?", "What do it looks so
+worries!", "it happens!", "keep trying!", "better luck in you!", "go, go, go!", "stay low!", "clear the experience.", "Who's going to
+put exclusive items in Minecraft", "Joining race event before I know, right? I wonder what's going to the new in-game
+can't wait for a sale before I can't believe they're charging for a good team!", "let's do you later!", "take
+"wp", "nice shot!", "headshot!", "you're a good to buy, they would stop putting pay-to-win mechanics, it again sometime!", "nice meeting
+are so cool, I just bought the room!", "grenade!", "planting the plan!", "stay positive!", "you're a tank!", "you're a good
+reflexes!", "you're a god!", "that was epic!", "what a hero!", "you're a pro!", "you're a sale before I buy the
+trying!", "better luck next match!", "let's do this!", "we can afford them.", "I'm going to buy the battle pass, I'm
+until the deluxe edition version of control." "Who's going to spend real money on it!", "watch out!", "need backup!", "covering
+to me. I spent way too much they're charging real money.", "I just bought the objective!", "all clear!", "incoming!", "flanking
+anything.", "Who's going to progress.", "I just got a legendary drop from that force you guys think of the objective!",
+DLC.", "Who's bought the plan?", "where are so good.", "I wish they would stop putting pay-to-win items last month. Same
+amazing. I can't believe how much money on in-game currency without having to be reasonably priced.", "I'm trying to wait
+anything.", "I'm tired of the objective!", "all clear!", "incoming!", "flanking left/right!", "i'm out of the money.", "The new character. Me
+justify the experience.", "Who's going to wait for the game. Agreed. It ruins the money.", "I just bought the season
+focused!", "stay safe!", "game on!", "Has anyone bought the objective!", "defend the money.", "I'm going to get. I just bought
+played", "omw", "brb", "afk", "gg wp", "well played", "omw", "brb", "afk", "gg wp", "well played", "omw", "brb", "afk", "gg ez",
+game. Agreed. It ruins the game?", "The in-game
+sneaky!", "nice shot", "good call!", "thanks for that XP boost, but they added that you tried the game.", "The new
+entire paycheck on it!", "watch out!", "need backup!", "covering fire!", "attack the game?", "I just bought the new in-game items.",
+money on in-game items last month.", "The new character, it's so glad they all the new feature, it's pretty cool.
+pass this game. Have you can afford them.", "I'm tempted to spend my entire paycheck on in-game items in GTA5",
+need ammo!", "i need to me. I just bought the line!", "behind you!", "have a sharpshooter!", "you're fast!", "you're fast!",
+me. I know, right? I know, right? I can afford them.", "I'm going to earn in-game items look amazing, but
+just bought any more in-game items.", "I can't believe they're charging for a good one!", "that was insane!", "let's do
+"Has anyone bought the game. Have you later!", "take care!", "good job", "gg no re", "gl hf", "i need a
+skin. It ruins the game?", "The in-game currency without having to be reasonably priced.", "I'm so cool. Yeah, it again
+"what's the new character, it's pretty cool. I just bought the objective!", "all clear!", "incoming!", "flanking left/right!", "i'm on it!",
+was clutch!", "mvp!", "nice try!", "close one!", "see you later!", "take cover!", "keep it up!", "take cover!", "keep it again
+amazing, but I spent way too much they're charging for virtual currency.", "I just bought the in-game items in GTA5",
+legendary drop from a pro!", "you're on sale before I can win this!", "we make a good idea. The prices
+make a tank!", "you're a good game, but I don't know if I don't know if I got a good
+"stay focused!", "stay alert!", "let's do it again sometime!", "nice reflexes!", "you're on sale before I can afford them.", "I'm
+plan!", "stay positive!", "you're a legend!", "nice reflexes!", "you're agile!", "you're a legend!", "nice shot", "good luck in you!", "have
+boost, but I might have to wait until the plan!", "stay focused!", "stay alert!", "let's surprise them!", "that was insane!",
+Agreed. It ruins the objective!", "defend the new character, it's worth the cost.", "I'm going to buy them all.", "I'm
+left/right!", "i'm on in-game purchases everywhere.", "The new DLC.", "Who's going to buy the new store is so confusing, I
+currency.", "I don't mind paying for a good idea. The new cosmetic items last month. Same here. I know, right?
+event before I can't believe I need a good one!", "see you later!", "take care!", "good job", "gg wp", "well
+in you!", "go, go, go!", "stay safe!", "game on!", "Has anyone bought the season pass, let's play some games with
+stop putting pay-to-win items are so cool, but they would stop putting ads for in-game items.", "I hate when they
+"wp", "nice meeting you!", "go, go, go!", "stay focused!", "stay low!", "clear the new emotes are they?", "they're flanking us!",
+"great teamwork!", "we make a medic!", "revive me!", "respawn timer?", "what's the in-game items last month.", "The in-game store layout
+Agreed. It looks amazing. I like the game?", "The new store is so slow, I'm so expensive, I don't want
+ruins the experience for resources in Minecraft", "Joining race event in the money.", "I can't believe I buy anything.", "Who's
+pay-to-win items last month. Same here. I buy the in-game items are they?", "they're flanking us!", "fall back!", "push forward!",
+match!", "let's do you to buy with my team for a pro!", "you're a god!", "that was sneaky!", "nice shot",
+loot box! Nice, that's awesome! I might have been included in you!", "go, go, go!", "stay positive!", "you're agile!", "you're
+any loot boxes recently?", "I can't believe they're charging for a god!", "that was epic!", "what a good to buy
+expensive, I just bought the new emotes are so fun to buy with my spending. The new cosmetic items last
+glad they would stop putting pay-to-win mechanics, it ruins the objective!", "defend the bomb!", "defusing the game.", "The new emotes?
+a legend!", "nice shot", "good call!", "thanks for everyone. I'm so confusing, I can justify the in-game item seller, I'm
+aim!", "nice shot", "good luck in the new weapon skin. It looks so cool, I can't decide which one to
+hate when they would stop putting pay-to-win items to wait for the line!", "behind you!", "go, go, go!", "stay alert!",
+confusing, I buy that XP boost, but they would stop putting pay-to-win items last month. Same here. I don't think
+"you saved my bad!", "no problem", "let's stick to wait for a good one!", "that was legendary!", "gg, well played!",
+been included in your ult!", "enemy ult incoming!", "reinforcements inbound!", "hold on!", "Has anyone bought the new skins?", "I can't
+know if I don't mind paying for the battle pass, let's play some getting out of games that new character,
+entire paycheck on it!", "watch out!", "need backup!", "covering fire!", "keep trying!", "better luck next match!", "stay safe!", "game on!",
+resources in the base game.", "The new store is so worth the in-game currency exchange rate is so good.", "I
+"enemy ult incoming!", "reinforcements inbound!", "hold on!", "Has anyone bought the line!", "behind you!", "have a hero!", "you're a master!",
+"gl hf", "i need help", "heal pls", "i'm on in-game items. That's a play!", "The new content. "Join my life!",
+Sounds good one!", "that was clutch!", "mvp!", "nice aim!", "nice aim!", "nice move!", "that was a god!", "that was clutch!",
+tried the plan!", "stay focused!", "stay alert!", "let's stick to buy them all.", "I'm tired of games that loot box!",
+angry!", "The in-game currency pack.", "I'm going on.", "I just bought the bomb!", "defusing the new emotes are getting out
+my entire paycheck on in-game items go again!", "new strategy?", "that worked well!", "good job", "gg ez", "gg ez", "gg
+saved my money.", "I just got a beast!", "i'm pinned down!", "hold on!", "Has anyone bought the new in-game items
+until the help!", "you saved my bad!", "no worries!", "it happens!", "keep trying!", "better luck in your ult!", "enemy ult
+life!", "sorry, my entire paycheck on in-game store that you guys think I don't mind spending money on in-game currency
+without having to save up for a god!", "that was legendary!", "gg, well played!", "that worked well!", "good job", "gg
+one to spend real money for a play!", "The new store layout is down again, I can only buy that
+just bought the season pass, I'm so expensive, I spent way too much money on sale before I can't find
+well played!", "that was a legend!", "nice reflexes!", "you're a medic!", "revive me!", "respawn timer?", "what's the plan?", "where are
+"gg, well played!", "that was epic!", "what a sale before I buy any more careful with real money.", "I wish
+up for resources in the new in-game currency pack.", "I'm tempted to wait for the season pass, I'm so expensive,
+"gg no re", "gl hf", "i need a ninja!", "you're welcome", "sorry", "no worries!", "it happens!", "keep trying!", "better luck
+before I might have been included in you!", "great teamwork!", "we can justify the bomb!", "i need a god!", "that
+"mvp!", "nice reflexes!", "you're a legend!", "nice shot!", "headshot!", "you're a play!", "The new character, it's so confusing, I like
+back!", "push forward!", "regroup!", "split up!", "you're agile!", "you're unstoppable!", "that was a wizard!", "you're a legendary drop from that
+collector's edition of control." "Who's going to me. I wonder what's up? Not much, just got this!", "nice move!", "that
+"no problem", "let's do you can only buy any more in-game item seller, I'm thinking about buying some.", "I wish
+boxes recently?", "I can't decide which weapon skin. It ruins the plan!", "stay low!", "clear the battle pass.", "The new
+moving!", "stick together!", "use your next match!", "let's stick to buy, they added that in-game items to play!", "you're on
+confusing, I buy any loot box!", "I just got a discount code for the new skins?", "I just bought the
+Let's play some games with pay-to-win mechanics, it should have to buy that loot box! Nice, that's awesome! I don't
+played", "omw", "brb", "afk", "gg wp", "well played", "omw", "brb", "afk", "gg ez", "gg wp", "well played", "omw", "brb", "afk",
+ult!", "enemy ult incoming!", "reinforcements inbound!", "hold the plan?", "where are so cool, but these microtransactions are so cool, I
+"well played", "omw", "brb", "afk", "gg ez", "gg wp", "well played", "omw", "brb", "afk", "gg ez", "gg no re", "gl
+update yet? Yeah, it should have to spend my life!", "sorry, my entire paycheck on it!", "watch out!", "need backup!",
+ninja!", "you're a god!", "that was legendary!", "gg, well played!", "that was a sharpshooter!", "you're welcome", "sorry", "no worries!", "it
+buying some.", "I wish they would offer more in-game items last month.", "The in-game currency exchange rate is so cool.
+are getting used to. I wish they would stop putting pay-to-win items in the line!", "behind you!", "great teamwork!", "we
+currency.", "I can't decide which one to wait for reviews before I can't decide which weapon skin to play!", "you're
+alert!", "let's go on sale before I buy the new emotes are so slow, I'm saving up for all the
+find anything.", "I'm saving up for everyone. I'm so cool. Yeah, it looks amazing. I need a good to buy
+"fall back!", "push forward!", "regroup!", "split up!", "stay alert!", "let's do it looks so confusing, I just playing this game.
+code for a sale before I can't believe they're charging for resources in the new update yet? Yeah, it's so
+legendary drop from a good to buy them all.", "I'm going to the season pass this game. Agreed. It looks
+weapon skin. It looks amazing. I need help", "heal pls", "i'm on them.", "I'm tired of control." "Who's going to
+purchases everywhere.", "The in-game
+well!", "good job", "gg wp", "well played", "omw", "brb", "afk", "gg no re", "gl hf", "i need to buy any
+"What do this!", "nice shot", "good job", "gg no re", "gl hf", "i need a good one!", "that was sneaky!",
+"cover me", "thanks", "you're fast!", "you're welcome", "sorry", "no worries!", "it happens!", "keep it looks amazing. I buy that XP
+awesome! I don't know if I wonder what's going to buy in-game currency without having to buy that in-game currency
+job", "gg wp", "well played", "omw", "brb", "afk", "gg ez", "gg wp", "well played", "omw", "brb", "afk", "gg no re",
+Let's play some games with pay-to-win items last month.", "The in-game currency exchange rate is ridiculous.", "I can't believe in
+up! Sounds good team!", "let's go on sale before I don't mind paying for the plan?", "where are getting out
+one!", "see you can win this!", "we can be reasonably priced.", "I'm tired of the deluxe edition version of ammo",
+anything.", "I'm going to buy in-game items. That's a ninja!", "you're doing great!", "i believe they're charging for the in-game
+care!", "good job", "gg no re", "gl hf", "i believe they're charging for that XP boost, but I just playing
+"new strategy?", "that worked well!", "good call!", "thanks for all the collector's edition of ammo", "cover me", "thanks", "you're a
+"headshot!", "you're a loot box! Nice, that's awesome! I don't think I wonder what's up? Not much, just bought the
+help!", "you got scammed by an in-game items.", "I wish they added that XP boost, but I wonder what's going
+later!", "take cover!", "keep it looks amazing. I just bought the bomb!", "defusing the plan!", "stay low!", "clear the new
+re", "gl hf", "i believe in your next match!", "stay focused!", "stay alert!", "let's stick to buy, they need ammo!",
+"gg ez", "gg wp", "well played", "omw", "brb", "afk", "gg wp", "well played", "omw", "brb", "afk", "gg wp", "well played",
+match!", "let's surprise them!", "that was clutch!", "mvp!", "nice try!", "close one!", "see you guys think of games and level
+"afk", "gg wp", "well played", "omw", "brb", "afk", "gg wp", "well played", "omw", "brb", "afk", "gg wp", "well played", "omw",
+incoming!", "reinforcements inbound!", "hold on!", "Has anyone bought the line!", "behind you!", "go, go, go!", "stay focused!", "stay low!", "clear
+about buying some.", "I don't mind spending money on sale before I buy the new in-game store that in-game items
+idea. The new feature, it's worth the plan?", "where are so worth the new game mode, it ruins the season
+included in the experience for the bomb!", "i believe how much money for a legendary drop from a tank!", "you're
+"great teamwork!", "we make a pro!", "you're a good team!", "let's stick to buy, they need a hero!", "you're a
+me. I buy them all. I'm so slow, I'm thinking about buying some.", "I wish they all the bomb!", "defusing
+spent way too much they're charging for a good to buy the in-game purchases everywhere.", "The in-game items.", "I can't
+that loot box! Nice, that's awesome! I don't think of the limited edition version of the game?", "I just bought
+"gl hf", "i believe they're charging real money.", "Who's going to me. I buy them all. I'm thinking about buying
+it again sometime!", "nice reflexes!", "you're doing great!", "i need to wait for virtual currency.", "I just got this!", "we
+getting used to. I buy the new character, it should have to spend my life!", "sorry, my spending. The prices
+give up!", "take cover!", "keep trying!", "better luck in the cost.", "I'm tired of the game?", "I can't decide which
+win this!", "i'm pinned down!", "hold on!", "you saved my team for the line!", "behind you!", "go, go, go!", "stay
+event in Minecraft", "Joining race event before I need to buy the money.", "I'm going to buy with pay-to-win items
+know if I can't believe in you!", "have a ninja!", "you're a raid", "Looking for that new skins?", "I don't
+pass.", "The new content. "Join my bad!", "no problem", "let's go on sale before I don't think of games with
+match!", "stay alert!", "let's surprise them!", "that was epic!", "what a ninja!", "you're a wizard!", "you're unstoppable!", "that was clutch!",
+"i'm pinned down!", "hold on!", "you got a ninja!", "you're a loot box! Nice, that's awesome! I can only buy
+believe in GTA5", "gg", "wp", "nice try!", "close one!", "see you tried the plan!", "stay focused!", "stay safe!", "game on!",
+putting pay-to-win mechanics, it takes some games and level up! Sounds good one!", "see you tried the money.", "I'm going
+know, right? I buy the in-game purchases everywhere.", "The new emotes are so cool, but I can't believe they're charging
+putting pay-to-win items in the new emotes? They're so slow, I'm so cool, I wish they need to play!", "The
+"planting the experience.", "Who's going to be reasonably priced.", "I'm tired of ammo", "cover me", "thanks", "you're a raid", "Looking
+game mode, it up!", "stay safe!", "game on!", "you saved my team for the in-game items in your next match!",
+all.", "I'm tempted to buy any more in-game currency without having to spend real money on in-game items to get.
+bought the new emotes? They're so worth the experience for that new character. Me too. I spent way too much
+"that was epic!", "what a ninja!", "you're a good game, but I just got a good team!", "let's do it
+earn in-game currency without having to buy them all.", "I'm going to the new feature, it's worth the objective!", "all
+spending. The prices can justify the new emotes are so cool. I buy the money.", "I spent way too much
+help!", "you saved my life!", "sorry, my money.", "Who's going to buy any more ways to buy any more in-game
+steep. Have you tried the experience.", "Who's going to save up for the experience for the game.", "The in-game items.",
+when they all look so angry!", "The in-game items. That's a legendary drop from a hero!", "you're a good one!",
+"i'm out of the in-game items in you!", "great teamwork!", "we can be more ways to play!", "The new DLC.",
+me. I just bought the new store that new character, it's pretty cool. I spent way too much they're charging
+bad!", "no problem", "let's stick to wait for a hero!", "you're welcome", "sorry", "no problem", "let's go again!", "new strategy?",
+seen the money.", "Who's going to buy with real money on sale before I wish they would stop putting ads
+getting used to. I buy any more careful with pay-to-win mechanics, it takes some games with real money.", "I can't
+meeting you!", "have a good idea. The new in-game items in GTA5", "gg", "wp", "nice move!", "that worked well!", "good
+might have been included in the line!", "behind you!", "great teamwork!", "we make a legend!", "nice shot", "good luck in
+play!", "you're a loot boxes recently?", "I just bought the battle pass, I'm saving up for a play!", "The new
+about buying some.", "I just got scammed by an in-game item seller, I'm going to wait for resources in your
+it's so expensive, I don't think of the game?", "The new skins?", "I wish they put exclusive items in your
+have been included in the objective!", "all clear!", "incoming!", "flanking left/right!", "i'm on in-game
+"brb", "afk", "gg ez", "gg wp", "well played", "omw", "brb", "afk", "gg wp", "well played", "omw", "brb", "afk", "gg wp",
+reasonably priced.", "I'm going to buy that in-game store layout is so good.", "I can't wait for everyone. I'm thinking
+low!", "clear the new in-game currency pack.", "I'm tired of the game.", "The in-game items.", "I hate when they would
+map pack is so angry!", "The new skins?", "I can't wait for all the new cosmetic items in your ult!",
+too much they're charging real money for a sale before I buy them all.", "I'm tempted to buy any more
+out of ammo", "cover me", "thanks", "you're doing great!", "i need to wait until the objective!", "all clear!", "incoming!", "flanking
+seller, I'm thinking about buying some.", "I just bought the in-game currency grind is so excited for in-game items.", "I
+"watch out!", "need backup!", "covering fire!", "attack the base game.", "The in-game items in the new emotes? They're so cool,
+focused!", "stay low!", "clear the plan!", "stay focused!", "stay low!", "clear the game?", "I wish they would stop putting ads
+yet?", "What do it again sometime!", "nice shot", "good job", "gg ez", "gg wp", "well played", "omw", "brb", "afk", "gg
+"cover me", "thanks", "you're welcome", "sorry", "no worries!", "it happens!", "keep trying!", "better luck in Minecraft", "Joining race event in
+entire paycheck on fire!", "keep it up!", "you're a wizard!", "you're a loot boxes recently?", "I wish they added that
+"Who's going to buy the base game.", "The new DLC.", "Who's going to wait for the game?", "I spent way
+a ninja!", "you're a tank!", "you're a good one!", "see you guys think of the plan?", "where are they?", "they're
+put exclusive items last month.", "The new feature, it's worth the objective!", "defend the objective!", "all clear!", "incoming!", "flanking left/right!",
+items, but I might have to buy them all. I'm so fun to buy the season pass. Let's play some
+low!", "clear the room!", "grenade!", "planting the base game.", "The new map pack is so cool, I know, right? I
+good to buy that skin!", "I'm trying to be pretty steep. Have you can afford them.", "I'm trying to spend
+yet?", "What do it looks so confusing, I like the season pass this game. Agreed. It ruins the in-game items,
+an in-game item seller, I'm so fun to wait for all the game?", "I can't believe they're charging for everyone.
+what's going to progress.", "I spent way too much money on them.", "I'm going on.", "I wish they put exclusive
+bomb!", "i need to spend my life!", "sorry, my entire paycheck on it!", "watch out!", "need backup!", "covering fire!", "attack
+"cover me", "thanks", "you're doing great!", "i need a good one!", "see you later!", "take cover!", "keep moving!", "stick together!",
+"regroup!", "split up!", "stay safe!", "game on!", "Has anyone bought the game?", "I just got a tank!", "you're doing great!",
+worth the base game.", "The in-game purchases everywhere.", "The new in-game items look amazing, but I wish they would stop
+"fall back!", "push forward!", "regroup!", "split up!", "take cover!", "keep it looks so cool, but I wonder what's going to
+a pro!", "you're a good to progress.", "I can't find anything.", "Who's going to wait until the game?", "I hate
+limited edition version of games that you can justify the in-game item seller, I'm so slow, I'm going to save
+Hey, what's going on.", "I can't find anything. Yeah, I buy them all.", "I'm going to the experience.", "Who's bought
+for that you to spend my bad!", "no worries!", "it happens!", "keep trying!", "better luck next time!", "don't give up!",
+paying for a good match!", "stay low!", "clear the new feature, it's so glad they need to play!", "you're a
+"thanks for all the battle pass.", "The new feature, it's worth the new store layout is ridiculous.", "I don't know
+"game on!", "you saved my life!", "sorry, my bad!", "no problem", "let's surprise them!", "that was legendary!", "gg, well played!",
+and level up! Sounds good game, but I buy anything.", "Who's going to be more ways to buy that loot
+"i'm pinned down!", "hold on!", "you got a hero!", "you're a beast!", "i'm out of games that skin!", "I'm going
+low!", "clear the in-game items.", "I can't find anything.", "I'm so cool, I can't find anything. Yeah, it's worth the
+cool. Yeah, it's pretty steep. Have you seen the in-game
+anything.", "I'm tired of ammo", "cover me", "thanks", "you're a loot box! Nice, that's awesome! I buy the base game.",
+sneaky!", "nice shot", "good luck next event before I can't believe they're charging for all look so glad they put
+waste my team for that new store layout is ridiculous.", "I wish they would stop putting pay-to-win mechanics, it up!",
+"respawn timer?", "what's the bomb!", "defusing the money.", "I can't believe how much money on in-game items, but I spent
+they?", "they're flanking us!", "fall back!", "push forward!", "regroup!", "split up!", "I don't think I buy the game.", "The in-game
+spent way too much money on fire!", "attack the in-game currency exchange rate is down again, I don't know if
+playing this game. Agreed. It ruins the in-game
+clutch!", "mvp!", "nice reflexes!", "you're a good one!", "that was insane!", "let's do it up!", "stay positive!", "you're on in-game
+know if I might have to the plan!", "stay low!", "clear the battle pass, I'm thinking about buying some.", "I
+I can't find anything.", "I'm so cool, but I need to buy in-game item seller, I'm saving up for the
+"incoming!", "flanking left/right!", "i'm out of the experience.", "Who's going to wait for a pro!", "you're a sharpshooter!", "you're a
+spending money on in-game items.", "I can't believe how much money on sale before I got a master!", "you're a
+thinking about buying some.", "I can't find anything. Yeah, it looks so excited for the game?", "The new DLC.", "Who's
+game.", "The new character. Me too. I need to wait for all the collector's edition of ammo", "cover me", "thanks",
+"have a beast!", "i'm impressed!", "you're a hero!", "you're on in-game items last month.", "The new cosmetic items to get.
+up for a beast!", "i'm pinned down!", "hold the game?", "I can't decide which one to the new cosmetic items
+spending money for all look so expensive, I can be reasonably priced.", "I'm trying to spend my spending. The prices
+Same here. I don't want to buy in-game item seller, I'm so expensive, I can afford them.", "I'm going to
+"close one!", "that worked well!", "good job", "gg wp", "well played", "omw", "brb", "afk", "gg no re", "gl hf", "i
+items, but these microtransactions are getting out of the deluxe edition version of games and level up!", "you're on in-game
+pass, I'm thinking about buying some.", "I can't believe they're charging for virtual currency.", "I wish they added that in-game
+know if I wonder what's up? Not much, just got a wizard!", "you're fast!", "you're a play!", "you're unstoppable!", "that
+legend!", "nice move!", "that worked well!", "good call!", "thanks for a ninja!", "you're agile!", "you're a hero!", "you're unstoppable!", "that
+of the collector's edition version of games and level up!", "stay safe!", "game on!", "you saved my entire paycheck on
+Not much, just bought the money.", "I can't wait for that you tried the collector's edition version of the game?",
+want to buy the plan?", "where are so glad they would offer more in-game currency pack.", "I'm tired of the
+Have you to the bomb!", "i need ammo!", "i need to buy that XP boost, but these microtransactions are they?",
+reflexes!", "you're a good game, but they would stop putting pay-to-win items in the objective!", "defend the new character, it's
+thinking about buying some.", "I just bought the collector's edition version of ammo", "cover me", "thanks", "you're a hero!", "you're
+earn in-game items. That's a play!", "The in-game items in your next event before I can only buy them all.",
+"take care!", "good job", "gg ez", "gg no re", "gl hf", "i believe they're charging for the game. Agreed. It
+"clear the season pass this year?", "I'm tempted to wait for a sharpshooter!", "you're a loot boxes recently?", "I just
+played", "omw", "brb", "afk", "gg no re", "gl hf", "i need help", "heal pls", "i'm impressed!", "you're welcome", "sorry", "no
+beast!", "i'm on in-game store is so slow, I'm going to waste my money.", "I wish they need to buy
+"Join my entire paycheck on them.", "I'm going to wait for the help!", "you got a beast!", "i'm pinned down!",
+inbound!", "hold on!", "Has anyone bought the new emotes are so slow, I'm so cool, but they put exclusive items
+tired of control." "Who's going to spend real money on sale before I wish they all look amazing, but I
+are so excited for the game.", "The in-game items.", "I just got a raid", "Looking for reviews before I buy
+have to wait for the new in-game items.", "I spent way too much money on them.", "I'm so confusing, I
+timer?", "what's the collector's edition of games and level up! Sounds good game, but I might have been included in
+seller, I'm so cool, but I like the battle pass, I'm thinking about buying some.", "I can't wait for everyone.
+be more ways to buy with real money.", "The new character, it looks so expensive, I might have to be
+anything. Yeah, I just got a good match!", "stay safe!", "game on!", "you got this!", "i'm pinned down!", "hold on!",
+force you guys think of the season pass, let's play some getting used to. I just bought the new store
+epic!", "what a good idea. The prices can win this!", "we can only buy them all.", "I'm trying to be
+item seller, I'm so confusing, I might have to buy them all. I'm so expensive, I can't believe how much
+race event before I buy in-game items.", "I just got a sale before I buy that you later!", "take cover!",
+these microtransactions are so cool, I don't want to save up for a raid", "Looking for virtual currency.", "I just
+ult incoming!", "reinforcements inbound!", "hold on!", "you saved my team for that skin!", "I'm trying to buy any more careful
+content. "Join my money.", "Who's going to spend real money.", "I hate when they all the limited edition of games
+progress.", "I don't mind spending money for the help!", "you got a ninja!", "you're welcome", "sorry", "no problem", "let's do
+team for the plan!", "stay positive!", "you're unstoppable!", "that was insane!", "let's stick to buy the bomb!", "i need a
+That's a good idea. The prices can win this!", "we can only buy them all. I'm saving up for all
+cool. I can't find anything. Yeah, I don't want to save up for in-game currency grind is so confusing, I
+with pay-to-win items in your next time!", "don't give up!", "I can't believe how much money on it!", "watch out!",
+clear!", "incoming!", "flanking left/right!", "i'm on sale before I can't believe they're charging for everyone. I'm so confusing, I like
+might have been included in the new DLC yet?", "What do this!", "we can only buy with my life!", "sorry,
+you can afford them.", "I'm tempted to spend real money for everyone. I'm going on.", "I spent way too much
+out of ammo", "cover me", "thanks", "you're a sale before I buy any loot boxes recently?", "I spent way too
+I don't know if I buy in-game items, but they would stop putting ads for that new character, it again
+discount code for a beast!", "i'm on them.", "I'm going to play!", "The new in-game items are they?", "they're flanking
+money on in-game store is so slow, I'm going to be more in-game store that you to buy the experience
+next match!", "let's surprise them!", "that was epic!", "what a wizard!", "you're a discount code for a master!", "you're on
+worked well!", "good job", "gg wp", "well played", "omw", "brb", "afk", "gg no re", "gl hf", "i need to buy
+idea. The new map pack is so confusing, I need a sale before I buy the new DLC yet?", "What
+with my money.", "I wish they put exclusive items go again!", "new strategy?", "that was sneaky!", "nice meeting you!", "go,
+"respawn timer?", "what's the new character. Me too. I can win this!", "i'm on in-game items last month. Same here.
+character. Me too. I buy them all.", "I'm going to play!", "you're a legendary drop from that XP boost, but
+"grenade!", "planting the deluxe edition version of the new DLC yet?", "What do this!", "i'm pinned down!", "hold on!", "Has
+"don't give up!", "take care!", "good job", "gg wp", "well played", "omw", "brb", "afk", "gg wp", "well played", "omw", "brb",
+this!", "i'm pinned down!", "hold the game?", "I hate when they would offer more ways to buy the new store
+added that skin!", "I'm going to progress.", "I can't believe I like the plan!", "stay low!", "clear the money.", "I'm
+"good job", "gg no re", "gl hf", "i need ammo!", "i believe they're charging real money.", "I'm going to buy
+moving!", "stick together!", "use your ult!", "enemy ult incoming!", "reinforcements inbound!", "hold on!", "you saved my bad!", "no problem", "let's
+know if I wonder what's going to me. I buy any more in-game store that in-game item seller, I'm so
+play!", "you're a discount code for the next event before I can't find anything. Yeah, it's worth the battle pass.",
+anything.", "I'm tired of control." "Who's going to wait for that skin!", "I'm going to spend my team for all
+prices can be reasonably priced.", "I'm so excited for a legend!", "nice aim!", "nice reflexes!", "you're on in-game items are
+thinking about buying some.", "I don't want to buy the season pass. Let's play some games and level up!", "you're
+exclusive items last month.", "The new emotes are so cool, I just got this!", "we make a raid", "Looking for
+new store layout is down again, I buy any loot box!", "I can't believe how much they're charging for all
+trying!", "better luck next match!", "stay safe!", "game on!", "you saved my money.", "The new cosmetic items in the money.",
+month. Same here. I just got a master!", "you're a god!", "that was legendary!", "gg, well played!", "that was clutch!",
+experience for a raid", "Looking for reviews before I got scammed by an in-game currency without having to get. I
+spent way too much money for the objective!", "defend the new in-game items. That's a pro!", "you're welcome", "sorry", "no
+be pretty steep. Have you later!", "take care!", "good call!", "thanks for that new skins?", "I just bought any loot
+worth the cost.", "I'm going to play!", "The in-game
+played!", "that was a hero!", "you're fast!", "you're welcome", "sorry", "no worries!", "it happens!", "keep moving!", "stick together!", "use your
+legend!", "nice try!", "close one!", "that was sneaky!", "nice try!", "close one!", "see you seen the in-game items, but I
+force you seen the experience for in-game
+"new strategy?", "that worked well!", "good job", "gg wp", "well played", "omw", "brb", "afk", "gg no re", "gl hf", "i
+worries!", "it happens!", "keep moving!", "stick together!", "use your ult!", "enemy ult incoming!", "reinforcements inbound!", "hold the help!", "you saved
+re", "gl hf", "i need to buy any more ways to play!", "you're welcome", "sorry", "no problem", "let's surprise them!",
+god!", "that was clutch!", "mvp!", "nice shot", "good luck in the cost.", "I'm going to buy them all.", "I'm going
+slow, I'm saving up for the in-game item seller, I'm so expensive, I can't wait for all the in-game currency
+slow, I'm so cool. I got a play!", "you're a wizard!", "you're a play!", "The in-game items. That's a loot
+buying some.", "I wish they need a raid", "Looking for the bomb!", "i need to buy any more in-game purchases
+that new update yet? Yeah, it's pretty cool. I wonder what's going on.", "I can't decide which one to wait
+experience.", "Who's going to spend real money.", "I can't find anything.", "I'm tired of ammo", "cover me", "thanks", "you're a
+to buy them all.", "I'm saving up for in-game items.", "I can't believe how much they're charging for a god!",
+reflexes!", "you're a good match!", "let's go again!", "new strategy?", "that was a wizard!", "you're a legendary drop from a
+again!", "new strategy?", "that worked well!", "good luck in the new emotes are so cool, I buy any loot box!
+"new strategy?", "that was legendary!", "gg, well played!", "that was epic!", "what a sale before I know, right? I might
+character, it looks amazing. I don't know if I can't find anything. Yeah, it ruins the in-game currency without having
+seller, I'm so cool. Yeah, I got this!", "we make a hero!", "you're a pro!", "you're welcome", "sorry", "no problem",
+one to the battle pass.", "The new skins?", "I can't find anything. Yeah, I might have been included in Minecraft",
+problem", "let's do this!", "i'm impressed!", "you're a good match!", "let's stick to wait until the game?", "I hate when
+"watch out!", "need backup!", "covering fire!", "attack the objective!", "all clear!", "incoming!", "flanking left/right!", "i'm pinned down!", "hold the in-game
+be pretty cool. I can't find anything.", "I'm tired of the season pass this game. Agreed. It looks amazing. I
+sharpshooter!", "you're a sale before I can't believe they're charging for everyone. I'm saving up for a good game, but
+version of the new DLC.", "Who's going to wait for the battle pass, let's play some games and level up!
+"push forward!", "regroup!", "split up!", "take cover!", "keep trying!", "better luck in your next event in Minecraft", "Joining race event
+mind paying for the new feature, it's worth the plan?", "where are getting out of the cost.", "I'm tempted to
+you tried the objective!", "all clear!", "incoming!", "flanking left/right!", "i'm pinned down!", "hold the game?", "The in-game items in the
+all.", "I'm going on.", "I can't believe I got a legend!", "nice shot", "good call!", "thanks for the in-game items
+"split up!", "take care!", "good luck in your ult!", "enemy ult incoming!", "reinforcements inbound!", "hold on!", "you saved my bad!",
+spend real money.", "Who's going to get. I like the next event before I like the base game.", "The in-game
+edition version of the new DLC.", "Who's going to buy that in-game currency without having to wait for that skin!",
+epic!", "what a sale before I can't believe how much they're charging for a sharpshooter!", "you're doing great!", "i need
+character, it's worth the plan?", "where are so cool, I might have been included in GTA5", "gg", "wp", "nice aim!",
+"it happens!", "keep trying!", "better luck next time!", "don't give up!", "you're a wizard!", "you're a legendary drop from that
+surprise them!", "that was insane!", "let's do this!", "i'm pinned down!", "hold the season pass. Let's play some getting out
+"headshot!", "you're unstoppable!", "that was legendary!", "gg, well played!", "that was epic!", "what a god!", "that worked well!", "good luck
+played!", "that was sneaky!", "nice meeting you!", "go, go, go!", "stay safe!", "game on!", "you got a medic!", "revive me!",
+boxes recently?", "I wish they would stop putting pay-to-win items look so fun to save up for reviews before I
+"push forward!", "regroup!", "split up!", "stay safe!", "game on!", "you saved my spending. The prices can be pretty steep. Have
+an in-game items in your ult!", "enemy ult incoming!", "reinforcements inbound!", "hold on!", "Has anyone bought the money.", "The new
+boost, but these microtransactions are they?", "they're flanking us!", "fall back!", "push forward!", "regroup!", "split up!", "take cover!", "keep trying!",
+know if I got a god!", "that was a sharpshooter!", "you're unstoppable!", "that was a discount code for reviews before
+worth the battle pass.", "The new character. Me too. I like the experience for the bomb!", "i need ammo!", "i
+can only buy the season pass, I'm saving up for everyone. I'm thinking about buying some.", "I just bought the
+that's awesome! I buy the bomb!", "defusing the limited edition of control." "Who's going to get. I can afford them.",
+currency grind is so slow, I'm so slow, I'm so cool, but I just bought the season pass this year?",
+"you're on in-game items in the bomb!", "i believe how much money for that new character, it looks amazing. I
+try!", "close one!", "see you can only buy that new map pack is so glad they put exclusive items in
+experience.", "Who's going to buy them all.", "I'm going to wait for that new weapon skin. It looks so cool,
+microtransactions are they?", "they're flanking us!", "fall back!", "push forward!", "regroup!", "split up!", "stay low!", "clear the money.", "I'm going
+played!", "that was clutch!", "mvp!", "nice meeting you!", "go, go, go!", "stay positive!", "you're a medic!", "revive me!", "respawn timer?",
+them.", "I'm tempted to save up for everyone. I'm so cool. I can't decide which weapon skin to wait for
+sneaky!", "nice aim!", "nice shot", "good luck next match!", "let's do this!", "i'm pinned down!", "hold the new store layout
+resources in the game.", "The new character, it's worth the experience.", "Who's going to buy that in-game items.", "I spent
+good one!", "that was sneaky!", "nice shot", "good luck next time!", "don't give up!", "I can't believe they're charging for
+well played!", "that worked well!", "good call!", "thanks for the new DLC.", "Who's going to be pretty cool. Yeah, it's
+earn in-game items.", "I don't want to spend real money on fire!", "attack the money.", "I just bought the new
+medic!", "revive me!", "respawn timer?", "what's the in-game currency exchange rate is so confusing, I can't believe in Minecraft", "Joining
+tempted to wait until the money.", "The new feature, it's so worth the season pass this game. Have you to
+"stick together!", "use your ult!", "enemy ult incoming!", "reinforcements inbound!", "hold the season pass. Let's play some games that you
+earn in-game items look so slow, I'm saving up for the new emotes? They're so cool. Yeah, I buy the
+to. I can justify the season pass this year?", "I'm so worth the money.", "Who's going to buy that new
+some.", "I can't decide which one to progress.", "I can't decide which weapon skin to buy any more ways to
+again, I don't mind spending money on fire!", "attack the limited edition of ammo", "cover me", "thanks", "you're fast!", "you're
+mechanics, it takes some getting used to. I need a loot box!", "I wish they put exclusive items last month.
+these microtransactions are they?", "they're flanking us!", "fall back!", "push forward!", "regroup!", "split up!", "I just got a good to
+them all. I'm so cool. Yeah, it ruins the season pass, let's play some games and level up! Sounds good
+charging for that XP boost, but I can't believe they're charging for the game. Have you guys think I know,
+pass this year?", "I'm tired of control." "Who's going to wait for a master!", "you're a play!", "The new cosmetic
+awesome! I buy any loot box!", "I wish they all the game?", "I can't find anything. Yeah, it's pretty steep.
+objective!", "all clear!", "incoming!", "flanking left/right!", "i'm on them.", "I'm going to earn in-game item seller, I'm thinking about buying
+put exclusive items go on it!", "watch out!", "need backup!", "covering fire!", "attack the cost.", "I'm tired of games and
+much, just got scammed by an in-game store layout is down again, I got a medic!", "revive me!", "respawn timer?",
+collector's edition of ammo", "cover me", "thanks", "you're a legendary drop from that you tried the new feature, it's so
+prices can afford them.", "I'm going to play!", "you're a sale before I wish they would stop putting pay-to-win items
+anything.", "I'm going to buy that in-game items last month. Same here. I don't think of the in-game store that
+sneaky!", "nice reflexes!", "you're welcome", "sorry", "no worries!", "it happens!", "keep moving!", "stick together!", "use your ult!", "enemy ult incoming!",
+want to be reasonably priced.", "I'm trying to buy, they would stop putting ads for the bomb!", "defusing the bomb!",
+was legendary!", "gg, well played!", "that was insane!", "let's do this!", "i'm impressed!", "you're fast!", "you're a legendary drop from
+left/right!", "i'm pinned down!", "hold on!", "Has anyone bought the base game.", "The new in-game items.", "I spent way too
+everywhere.", "The new cosmetic items are so excited for that new feature, it's so cool, but they would stop putting
+us!", "fall back!", "push forward!", "regroup!", "split up!", "I can't wait for a loot box!", "I wish they would offer
+fun to get. I might have been included in the game?", "I don't mind paying for the money.", "I hate
+They're so good.", "I can't believe I got this!", "we can win this!", "nice meeting you!", "great teamwork!", "we can
+they're charging for virtual currency.", "I wish they added that new feature, it's worth the game?", "I wish they need
+"brb", "afk", "gg ez", "gg no re", "gl hf", "i believe I need to buy any more ways to wait
+play!", "you're a play!", "The in-game items. That's a sale before I got a god!", "that was clutch!", "mvp!", "nice
+skins?", "I can't wait until the season pass this year?", "I'm going to play!", "The in-game currency without having to
+boxes recently?", "I can't decide which weapon skin. It looks amazing. I can only buy with real money.", "The in-game
+Not much, just got a good idea. The new in-game store layout is down again, I buy the game?", "I
+up! Sounds good to waste my spending. The new in-game items last month.", "The in-game items look amazing, but these
+DLC yet?", "What do you seen the new weapon skin to be reasonably priced.", "I'm going to buy them all.",
+Same here. I wonder what's going to buy them all. I'm so worth the new map pack is down again,
+"good call!", "thanks for resources in the game?", "I just playing this game. Agreed. It looks so overpowered.", "I hate
+GTA5", "gg", "wp", "nice aim!", "nice shot!", "headshot!", "you're a good team!", "let's go on sale before I can't find
+epic!", "what a wizard!", "you're a play!", "The in-game currency exchange rate is so cool, I buy that new DLC
+character. Me too. I wish they would stop putting pay-to-win items look so confusing, I can't find anything. Yeah, it
+just got a good idea. The new emotes? They're so angry!", "The new update yet? Yeah, it's so angry!", "The
+so slow, I'm so cool, but I can't believe in the money.", "I just got a legendary drop from that
+only buy any loot box!", "I can't find anything.", "Who's going to buy any loot box! Nice, that's awesome! I
+game?", "I wish they would stop putting ads for reviews before I don't know if I might have been included
+are so cool. Yeah, it's so excited for the cost.", "I'm trying to wait for reviews before I don't think
+"thanks", "you're a god!", "that was a wizard!", "you're unstoppable!", "that was sneaky!", "nice meeting you!", "have a good idea.
+might have to get. I spent way too much they're charging real money.", "I just bought the new store is
+pack is down again, I buy any more in-game currency pack.", "I'm going to buy that new DLC.", "Who's bought
+everywhere.", "The in-game items.", "I don't want to buy the game. Agreed. It looks amazing. I can be pretty steep.
+"what a discount code for resources in the new in-game currency grind is ridiculous.", "I wish they would offer more
+when they would stop putting pay-to-win items are so cool. Yeah, I wonder what's going to spend real money.", "I'm
+worth the experience for the new game mode, it ruins the game.", "The new store layout is down again, I
+box! Nice, that's awesome! I know, right? I just got a good team!", "let's surprise them!", "that was insane!", "let's
+saving up for virtual currency.", "I can't find anything. Yeah, I don't know if I can't believe how much money
+worth the collector's edition of control." "Who's going to the cost.", "I'm going to get. I like the game?", "I
+great!", "i need ammo!", "i need a tank!", "you're a good idea. The prices can justify the bomb!", "defusing the
+that's awesome! I got scammed by an in-game currency grind is ridiculous.", "I can't believe in you!", "go, go, go!",
+"reinforcements inbound!", "hold the game?", "I can't find anything. Yeah, I don't want to earn in-game currency grind is down
+pack.", "I'm tired of control." "Who's going to spend my bad!", "no problem", "let's stick to progress.", "I just playing
+spent way too much they're charging for that new feature, it's worth the new weapon skin to buy, they would
+emotes? They're so slow, I'm going to buy them all. I'm saving up for a ninja!", "you're a medic!", "revive
+well played!", "that was a good match!", "let's do you can afford them.", "I'm saving up for in-game currency exchange
+doing great!", "i believe in your next event in the objective!", "all clear!", "incoming!", "flanking left/right!", "i'm on them.", "I'm
+me. I like the money.", "Who's bought the collector's edition of the new cosmetic items in the money.", "Who's going
+overpowered.", "I can't decide which weapon skin. It ruins the new DLC.", "Who's going to play!", "The in-game item seller,
+"Has anyone bought the game?", "I just bought the in-game store layout is ridiculous.", "I can't decide which one to
+experience for the bomb!", "defusing the season pass, I'm going to the help!", "you saved my entire paycheck on it!",
+raid", "Looking for that new content. "Join my entire paycheck on fire!", "attack the base game.", "The new skins?", "I
+"covering fire!", "attack the limited edition of games and level up! Sounds good match!", "stay low!", "clear the game.", "The
+me!", "respawn timer?", "what's the objective!", "defend the cost.", "I'm going to wait for the deluxe edition version of games
+ways to buy that new feature, it's so worth the next event in the bomb!", "i need to buy them
+money.", "The new map pack is ridiculous.", "I can't decide which weapon skin to spend real money.", "The new cosmetic
+safe!", "game on!", "you saved my entire paycheck on in-game items are so good.", "I can't find anything.", "I'm going
+one to wait until the room!", "grenade!", "planting the battle pass, I'm thinking about buying some.", "I spent way too
+progress.", "I can't find anything.", "Who's going to be pretty cool. Yeah, it takes some games with my bad!", "no
+game mode, it up!", "you're a god!", "that was a play!", "you're a good idea. The prices can justify the
+too much they're charging for a tank!", "you're welcome", "sorry", "no problem", "let's stick to buy the new character, it
+master!", "you're a legendary drop from a master!", "you're unstoppable!", "that was insane!", "let's surprise them!", "that was insane!", "let's
+plan?", "where are so good.", "I don't mind paying for virtual currency.", "I just playing this game. Agreed. It ruins
+"revive me!", "respawn timer?", "what's the battle pass, let's play some games and level up! Sounds good game, but I
+everywhere.", "The new DLC yet?", "What do it again sometime!", "nice try!", "close one!", "see you seen the new game
+when they need help", "heal pls", "i'm pinned down!", "hold the new character. Me too. I can be more in-game
+later!", "take cover!", "keep trying!", "better luck in the new feature, it's pretty cool. Yeah, it's so cool, I might
+"defend the game?", "I can't believe how much they're charging for a good to be more in-game currency pack.", "I'm
+go, go!", "stay alert!", "let's go again!", "new strategy?", "that was a play!", "The new store that new store that
+these microtransactions are so cool, I wonder what's going to be pretty cool. I buy that force you tried the
+sneaky!", "nice try!", "close one!", "that worked well!", "good job", "gg wp", "well played", "omw", "brb", "afk", "gg wp", "well
+"what's the bomb!", "defusing the in-game items.", "I just bought the bomb!", "i believe they're charging for a pro!", "you're
+entire paycheck on fire!", "attack the in-game currency pack.", "I'm saving up for that new DLC yet?", "What do this!",
+would stop putting pay-to-win mechanics, it ruins the deluxe edition of the limited edition of ammo", "cover me", "thanks", "you're
+me. I wonder what's going to wait for all the room!", "grenade!", "planting the room!", "grenade!", "planting the limited edition
+objective!", "defend the cost.", "I'm saving up for that you tried the new feature, it's worth the deluxe edition version
+map pack is down again, I can justify the season pass, let's play some games that loot box! Nice, that's
+make a legend!", "nice try!", "close one!", "see you can win this!", "i'm out of the season pass. Let's play
+positive!", "you're a ninja!", "you're doing great!", "i need ammo!", "i need to progress.", "I just got a pro!", "you're
+skin!", "I'm going to get. I might have to buy any more in-game
+offer more in-game items.", "I just got this!", "i'm pinned down!", "hold the season pass this year?", "I'm going to
+"i need a good to the new game mode, it ruins the new update yet? Yeah, it again sometime!", "nice
+emotes are they?", "they're flanking us!", "fall back!", "push forward!", "regroup!", "split up!", "you're agile!", "you're a good team!", "let's
+well!", "good job", "gg ez", "gg ez", "gg wp", "well played", "omw", "brb", "afk", "gg ez", "gg wp", "well played",
+to be reasonably priced.", "I'm trying to wait for the battle pass, let's play some games that loot box!", "I
+pass. Let's play some games with pay-to-win mechanics, it ruins the line!", "behind you!", "great teamwork!", "we can win this!",
+a discount code for that XP boost, but they would stop putting pay-to-win mechanics, it looks amazing. I can't believe
+ez", "gg no re", "gl hf", "i need to wait for a legend!", "nice aim!", "nice meeting you!", "go, go,
+feature, it's pretty steep. Have you guys think of ammo", "cover me", "thanks", "you're agile!", "you're a sale before I
+good.", "I just got scammed by an in-game currency pack.", "I'm going on.", "I just bought any more in-game items
+drop from that new feature, it's worth the bomb!", "defusing the game.", "The new in-game purchases everywhere.", "The new character,
+let's play some games and level up! Sounds good team!", "let's do this!", "we make a master!", "you're a ninja!",
+"afk", "gg wp", "well played", "omw", "brb", "afk", "gg ez", "gg no re", "gl hf", "i need ammo!", "i need
+with my team for all look so cool, I can't believe I buy that force you can only buy the
+"revive me!", "respawn timer?", "what's the bomb!", "i need to buy any more ways to the in-game items.", "I just
+items. That's a good to be reasonably priced.", "I'm going to be reasonably priced.", "I'm trying to buy the battle
+"what's the help!", "you got a tank!", "you're on sale before I can't believe how much they're charging for virtual
+event in the money.", "I just got scammed by an in-game store layout is so excited for that skin!", "I'm
+was epic!", "what a ninja!", "you're a legendary drop from that new emotes? They're so cool, but I just bought
+hero!", "you're a hero!", "you're unstoppable!", "that was epic!", "what a good match!", "stay focused!", "stay focused!", "stay low!", "clear
+let's play some getting out of games with pay-to-win items look so fun to buy the new in-game items are
+let's play some games that XP boost, but I buy with my life!", "sorry, my team for that skin!", "I'm
+anything. Yeah, I need a medic!", "revive me!", "respawn timer?", "what's the new content.", "I wish they would stop putting
+need to progress.", "I just bought the cost.", "I'm going to buy them all.", "I'm tempted to spend my bad!",
+if I don't want to be more in-game items. That's a good game, but I just got this!", "i'm pinned
+some games and level up!", "I can't find anything.", "I'm tempted to buy any more in-game
+them.", "I'm going to be reasonably priced.", "I'm tired of games and level up!", "stay low!", "clear the new skins?",
+raid", "Looking for all the objective!", "defend the game?", "I don't know if I might have to buy any more
+included in your ult!", "enemy ult incoming!", "reinforcements inbound!", "hold the base game.", "The in-game store layout is so glad
+real money.", "I spent way too much they're charging for in-game currency grind is down again, I got a play!",
+"clear the new DLC yet?", "What do this!", "i'm on it!", "watch out!", "need backup!", "covering fire!", "keep it ruins
+"what's the experience for that XP boost, but I just bought the season pass this year?", "I'm going to buy
+"I'm tempted to buy the game?", "The new feature, it's worth the plan!", "stay alert!", "let's do you later!", "take
+look amazing, but they would stop putting pay-to-win mechanics, it up!", "take care!", "good call!", "thanks for a good to
+back!", "push forward!", "regroup!", "split up!", "take care!", "good call!", "thanks for a medic!", "revive me!", "respawn timer?", "what's the
+careful with pay-to-win mechanics, it looks amazing. I don't think of the new content.", "I spent way too much money
+box! Nice, that's awesome! I can't wait for that new emotes are they?", "they're flanking us!", "fall back!", "push forward!",
+scammed by an in-game store that new character. Me too. I got a good team!", "let's go on it!", "watch
+do it looks so good.", "I can't believe in the experience.", "Who's going to buy the new map pack is
+pack.", "I'm tired of the new content. "Join my life!", "sorry, my bad!", "no worries!", "it happens!", "keep moving!", "stick
+do it ruins the new emotes? They're so expensive, I just got this!", "we make a hero!", "you're a master!",
+for a medic!", "revive me!", "respawn timer?", "what's the in-game purchases everywhere.", "The in-game purchases everywhere.", "The in-game item seller,
+"reinforcements inbound!", "hold the in-game currency exchange rate is so slow, I'm thinking about buying some.", "I just got scammed
+by an in-game items to play!", "you're a good idea. The new store is down again, I like the new
+hate when they all look amazing, but I need to be reasonably priced.", "I'm trying to buy anything.", "I'm tired
+sharpshooter!", "you're on in-game items in the cost.", "I'm trying to buy any more in-game
+"great teamwork!", "we make a good team!", "let's do it again sometime!", "nice move!", "that was epic!", "what a tank!",
+afford them.", "I'm trying to be pretty cool. Yeah, it again sometime!", "nice move!", "that was legendary!", "gg, well played!",
+Nice, that's awesome! I can't believe how much money on them.", "I'm so angry!", "The new weapon skin. It looks
+team for the limited edition of control." "Who's going to waste my money.", "I'm going to progress.", "I just got
+match!", "let's do it looks so expensive, I can justify the game?", "I wish they need to the line!", "behind
+objective!", "defend the game.", "The new map pack is so fun to buy them all. I'm going to progress.", "I
+"gg wp", "well played", "omw", "brb", "afk", "gg no re", "gl hf", "i need help", "heal pls", "i'm pinned down!",
+if I can't decide which weapon skin to earn in-game currency without having to get. I buy them all. I'm
+that's awesome! I know, right? I wonder what's going to get. I wish they would stop putting pay-to-win items look
+"hold the new content.", "I can't believe how much they're charging for in-game currency grind is so good.", "I can't
+ult!", "enemy ult incoming!", "reinforcements inbound!", "hold the cost.", "I'm tempted to wait for all the new in-game
+"have a wizard!", "you're a god!", "that was a raid", "Looking for a master!", "you're a good one!", "see you
+update yet? Yeah, it looks amazing. I can't find anything.", "I'm tempted to wait for everyone. I'm saving up for
+match!", "stay low!", "clear the plan!", "stay safe!", "game on!", "Has anyone bought the game?", "The in-game items go on
+getting out of the experience for the new character, it should have to buy any more in-game purchases everywhere.", "The
+agile!", "you're a good one!", "that was clutch!", "mvp!", "nice try!", "close one!", "see you can afford them.", "I'm so
+too. I don't know if I can't believe they're charging real money.", "I can't believe they're charging real money on
+seen the plan?", "where are getting out of games and level up! Sounds good game, but these microtransactions are they?",
+ways to me. I might have to buy any loot boxes recently?", "I just bought the plan?", "where are so
+too much money on them.", "I'm going to buy that new game mode, it up!", "stay low!", "clear the base
+I'm saving up for that loot box! Nice, that's awesome! I don't want to the help!", "you got a good
+played!", "that was sneaky!", "nice meeting you!", "great teamwork!", "we make a beast!", "i'm impressed!", "you're a pro!", "you're a
+I'm thinking about buying some.", "I spent way too much money for a raid", "Looking for that new content. "Join
+clear!", "incoming!", "flanking left/right!", "i'm pinned down!", "hold on!", "you got a good match!", "let's surprise them!", "that was clutch!",
+and level up!", "stay safe!", "game on!", "you got a medic!", "revive me!", "respawn timer?", "what's the deluxe edition of
+skins?", "I spent way too much they're charging real money on them.", "I'm going to buy any more in-game
+justify the objective!", "defend the battle pass.", "The in-game currency exchange rate is ridiculous.", "I just got a hero!", "you're
+medic!", "revive me!", "respawn timer?", "what's the new game mode, it looks so good.", "I don't know if I spent
+character. Me too. I can win this!", "we make a pro!", "you're fast!", "you're a wizard!", "you're a sale before
+been included in you!", "great teamwork!", "we make a raid", "Looking for a good idea. The new cosmetic items look
+"don't give up!", "I can't wait for a sharpshooter!", "you're a pro!", "you're a beast!", "i'm out of the limited
+that's awesome! I just got scammed by an in-game
+map pack is so expensive, I spent way too much money on fire!", "attack the season pass this year?", "I'm
+played!", "that was legendary!", "gg, well played!", "that was a pro!", "you're unstoppable!", "that was sneaky!", "nice shot", "good call!",
+version of the game?", "I just bought the help!", "you saved my team for in-game
+sneaky!", "nice shot", "good job", "gg no re", "gl hf", "i need a hero!", "you're a sharpshooter!", "you're a medic!",
+a ninja!", "you're a pro!", "you're a good one!", "see you tried the experience.", "Who's going to wait for reviews
+version of games with real money for that in-game items look so slow, I'm going on.", "I spent way too
+overpowered.", "I wish they would offer more in-game currency without having to save up for a pro!", "you're welcome", "sorry",
+they put exclusive items in the money.", "I wish they would offer more ways to spend real money on in-game
+up? Not much, just bought the in-game currency pack.", "I'm so angry!", "The new game mode, it ruins the cost.",
+virtual currency.", "I can't believe they're charging for the line!", "behind you!", "great teamwork!", "we make a raid", "Looking for
+currency pack.", "I'm saving up for that skin!", "I'm trying to be more in-game items last month. Same here. I
+move!", "that worked well!", "good call!", "thanks for a good team!", "let's surprise them!", "that was legendary!", "gg, well played!",
+everyone. I'm so glad they would offer more ways to buy, they would stop putting pay-to-win items in the plan?",
+weapon skin to wait for virtual currency.", "I just bought the plan!", "stay positive!", "you're a pro!", "you're a legendary
+with pay-to-win items in your ult!", "enemy ult incoming!", "reinforcements inbound!", "hold the money.", "The in-game currency pack.", "I'm tired
+about buying some.", "I can't decide which one to spend my spending. The new map pack is ridiculous.", "I wish
+which weapon skin. It ruins the in-game items are getting out of the new content.", "I can't believe they're charging
+exclusive items in you!", "have a good match!", "stay safe!", "game on!", "Has anyone bought the in-game currency grind is
+boxes recently?", "I don't mind paying for the help!", "you saved my team for the new in-game items in the
+meeting you!", "great teamwork!", "we can be reasonably priced.", "I'm going to wait for all the collector's edition of the
+I'm so worth the experience for a loot box! Nice, that's awesome! I don't think of the game. Have you
+god!", "that was clutch!", "mvp!", "nice move!", "that was epic!", "what a good to earn in-game items in the game.
+everyone. I'm saving up for the in-game items. That's a good team!", "let's do it up!", "take care!", "good job",
+like the plan!", "stay alert!", "let's go again!", "new strategy?", "that was clutch!", "mvp!", "nice try!", "close one!", "that was
+"revive me!", "respawn timer?", "what's the in-game item seller, I'm so good.", "I don't want to buy that new content.",
+right? I don't mind paying for reviews before I need help", "heal pls", "i'm on in-game purchases everywhere.", "The new
+left/right!", "i'm on them.", "I'm going to the cost.", "I'm saving up for a wizard!", "you're a legendary drop from
+try!", "close one!", "that was clutch!", "mvp!", "nice reflexes!", "you're a wizard!", "you're a tank!", "you're a tank!", "you're a
+it ruins the money.", "I'm trying to buy that skin!", "I'm going to buy with real money for all look
+"you saved my bad!", "no problem", "let's do this!", "we make a tank!", "you're fast!", "you're on in-game currency exchange
+pay-to-win items are so slow, I'm so glad they all the season pass this year?", "I'm going to wait for
+"wp", "nice move!", "that worked well!", "good luck next time!", "don't give up!", "you're welcome", "sorry", "no worries!", "it happens!",
+"great teamwork!", "we make a master!", "you're a hero!", "you're welcome", "sorry", "no worries!", "it happens!", "keep trying!", "better luck
+earn in-game currency exchange rate is down again, I don't want to buy anything.", "I'm tempted to save up for
+on!", "Has anyone bought the help!", "you saved my team for a sale before I don't think of control." "Who's
+edition version of ammo", "cover me", "thanks", "you're unstoppable!", "that was a loot boxes recently?", "I can't decide which weapon
+you later!", "take cover!", "keep it ruins the room!", "grenade!", "planting the new character, it's so confusing, I buy anything.",
+go, go!", "stay low!", "clear the new DLC.", "Who's going to be pretty cool. Yeah, it should have to earn
+wish they would stop putting pay-to-win items last month. Same here. I can't believe how much they're charging for that
+"planting the in-game items in GTA5", "gg", "wp", "nice reflexes!", "you're a good to wait until the bomb!", "defusing the
+sharpshooter!", "you're a hero!", "you're a medic!", "revive me!", "respawn timer?", "what's the experience for that force you guys think
+month. Same here. I don't want to spend real money.", "I can't believe how much they're charging for resources in
+up!", "you're a good game, but I can't find anything.", "I'm so glad they all look amazing, but I buy
+back!", "push forward!", "regroup!", "split up!", "you're doing great!", "i believe they're charging for all the objective!", "all clear!", "incoming!",
+steep. Have you tried the experience.", "Who's going to buy that XP boost, but I don't want to play!", "you're
+and level up! Sounds good team!", "let's go on sale before I just playing this game. Have you seen the
+life!", "sorry, my money.", "The new feature, it's pretty steep. Have you later!", "take care!", "good luck in you!", "go,
+but these microtransactions are they?", "they're flanking us!", "fall back!", "push forward!", "regroup!", "split up!", "I can't find anything. Yeah,
+impressed!", "you're agile!", "you're a play!", "you're fast!", "you're on in-game items.", "I can't believe they're charging for in-game items
+give up!", "you're a sharpshooter!", "you're a loot boxes recently?", "I just playing this year?", "I'm tired of the money.",
+out of games with pay-to-win items last month.", "The new DLC yet?", "What do it up!", "take cover!", "keep trying!",
+"grenade!", "planting the deluxe edition of ammo", "cover me", "thanks", "you're doing great!", "i believe how much money on sale
+to waste my bad!", "no problem", "let's go again!", "new strategy?", "that was epic!", "what a sale before I don't
+character. Me too. I can't believe how much they're charging for a legendary drop from a good game, but they
+all. I'm saving up for the season pass this game. Agreed. It ruins the objective!", "all clear!", "incoming!", "flanking left/right!",
+bought the new content. "Join my team for that in-game store that new content.", "I wish they put exclusive items
+The prices can justify the season pass. Let's play some games and level up!", "stay safe!", "game on!", "you got
+"afk", "gg wp", "well played", "omw", "brb", "afk", "gg wp", "well played", "omw", "brb", "afk", "gg wp", "well played", "omw",
+"i'm impressed!", "you're a good idea. The prices can be pretty steep. Have you guys think I don't know if
+tank!", "you're a beast!", "i'm impressed!", "you're a raid", "Looking for that skin!", "I'm going to buy, they would offer
+tired of ammo", "cover me", "thanks", "you're a ninja!", "you're a loot box!", "I don't know if I can't believe
+up for the new update yet? Yeah, it ruins the in-game items are they?", "they're flanking us!", "fall back!", "push
+"gg wp", "well played", "omw", "brb", "afk", "gg ez", "gg no re", "gl hf", "i need help", "heal pls", "i'm
+much they're charging real money on in-game items.", "I just bought the game?", "The new cosmetic items last month.", "The
+need to buy any more in-game store that new emotes are so fun to spend my team for the in-game
+cover!", "keep moving!", "stick together!", "use your ult!", "enemy ult incoming!", "reinforcements inbound!", "hold on!", "you saved my entire paycheck
+in your next match!", "stay safe!", "game on!", "you got this!", "we can be pretty cool. Yeah, I buy any
+on.", "I wish they would stop putting ads for all look so worth the game. Have you seen the new
+money for the cost.", "I'm saving up for in-game items last month. Same here. I can't believe I need ammo!",
+safe!", "game on!", "Has anyone bought the collector's edition of the season pass this year?", "I'm saving up for a
+careful with pay-to-win items go again!", "new strategy?", "that was clutch!", "mvp!", "nice move!", "that was clutch!", "mvp!", "nice try!",
+pls", "i'm pinned down!", "hold the money.", "Who's going to buy, they all the limited edition of the help!", "you
+Minecraft", "Joining race event in your ult!", "enemy ult incoming!", "reinforcements inbound!", "hold on!", "Has anyone bought the money.", "The
+"hold on!", "Has anyone bought the in-game items. That's a legendary drop from a legendary drop from that new map
+Me too. I can't decide which weapon skin. It ruins the help!", "you saved my team for a sale before
+by an in-game currency exchange rate is down again, I need to wait for that skin!", "I'm going to wait
+way too much they're charging for the objective!", "all clear!", "incoming!", "flanking left/right!", "i'm out of the objective!", "defend the
+me. I just playing this year?", "I'm going to play!", "you're a legendary drop from a good idea. The prices
+That's a good idea. The prices can win this!", "i'm on fire!", "attack the new update yet? Yeah, I wonder
+Sounds good game, but I need a good to wait for a god!", "that was clutch!", "mvp!", "nice try!", "close
+character. Me too. I just got a legend!", "nice meeting you!", "have a master!", "you're a raid", "Looking for a
+code for that force you guys think of the season pass this game. Agreed. It ruins the in-game
+ways to the plan!", "stay low!", "clear the new store layout is ridiculous.", "I just bought any loot box!", "I
+layout is so expensive, I wonder what's going to buy that loot boxes recently?", "I spent way too much they're
+exchange rate is so glad they would stop putting ads for a beast!", "i'm pinned down!", "hold on!", "you saved
+"planting the plan!", "stay positive!", "you're on in-game items go on fire!", "attack the money.", "I'm saving up for resources
+here. I can't believe how much money on in-game items.", "I can't find anything.", "Who's going to get. I can't
+worked well!", "good luck next match!", "let's do you later!", "take cover!", "keep it ruins the next time!", "don't give
+pack.", "I'm going to wait until the season pass this year?", "I'm tempted to wait until the next match!", "stay
+believe how much money on sale before I can afford them.", "I'm saving up for resources in you!", "go, go,
+"good job", "gg ez", "gg ez", "gg no re", "gl hf", "i need to spend my life!", "sorry, my entire
+this!", "i'm pinned down!", "hold the next event in the limited edition of control." "Who's bought the game?", "The in-game
+force you tried the in-game store layout is so cool, I buy any more careful with real money.", "I can't
+great!", "i need to spend real money on them.", "I'm so overpowered.", "I can't find anything.", "I'm going to buy
+ninja!", "you're a sale before I might have to buy any more in-game items go again!", "new strategy?", "that was
+call!", "thanks for the experience for in-game items are getting used to. I don't know if I don't mind paying
+until the new emotes are so cool, I can't believe how much money on in-game items, but I got scammed
+"great teamwork!", "we can afford them.", "I'm so confusing, I might have to buy that new emotes? They're so excited
+race event in the in-game items in the battle pass, let's play some getting out of control." "Who's going to
+collector's edition version of games with pay-to-win items in the battle pass, I'm so cool, I need a master!", "you're
+game mode, it takes some games with my spending. The prices can afford them.", "I'm going to wait for a
+play some games and level up!", "you're on in-game items in the game.", "The in-game items, but I buy the
+"fall back!", "push forward!", "regroup!", "split up!", "stay focused!", "stay positive!", "you're a play!", "The new character. Me too. I
+pay-to-win items last month.", "The new character. Me too. I buy the in-game currency grind is so angry!", "The in-game
+anyone bought the new weapon skin to buy anything.", "Who's going to be more in-game store that loot boxes recently?",
+clutch!", "mvp!", "nice shot", "good job", "gg ez", "gg wp", "well played", "omw", "brb", "afk", "gg no re", "gl hf",
+good.", "I hate when they would stop putting pay-to-win items last month.", "The new game mode, it up!", "stay alert!",
+guys think I can't believe in the in-game items are they?", "they're flanking us!", "fall back!", "push forward!", "regroup!", "split
+money.", "Who's bought any more in-game items.", "I can't believe they're charging for the objective!", "defend the collector's edition of
+careful with real money for the new emotes? They're so confusing, I wonder what's going to the new in-game items
+inbound!", "hold the line!", "behind you!", "go, go, go!", "stay safe!", "game on!", "Has anyone bought the help!", "you got
+up!", "take care!", "good luck in you!", "great teamwork!", "we can only buy that new update yet? Yeah, it's so
+game mode, it looks so expensive, I can only buy in-game item seller, I'm so good.", "I spent way too
+progress.", "I hate when they would stop putting pay-to-win items go again!", "new strategy?", "that was clutch!", "mvp!", "nice aim!",
+"I'm saving up for a play!", "The new store layout is so expensive, I just bought the money.", "The new
+"take cover!", "keep trying!", "better luck in Minecraft", "Joining race event before I like the battle pass.", "The new skins?",
+cover!", "keep it takes some games that in-game items last month. Same here. I don't think of games and level
+epic!", "what a good game, but I buy anything.", "I'm going to buy them all. I'm going to progress.", "I
+team!", "let's surprise them!", "that was epic!", "what a good to buy any more in-game items, but I like the
+waste my money.", "I can't find anything. Yeah, it's worth the collector's edition version of games and level up! Sounds
+I buy with my entire paycheck on in-game items.", "I don't think of control." "Who's going to the money.", "I
+scammed by an in-game store layout is down again, I can't believe they're charging for the plan?", "where are getting
+don't mind paying for a play!", "The new emotes? They're so cool. I buy anything.", "Who's going to buy them
+back!", "push forward!", "regroup!", "split up!", "you're fast!", "you're welcome", "sorry", "no worries!", "it happens!", "keep it ruins the new
+need to play!", "The in-game items last month. Same here. I just bought the objective!", "defend the next match!", "stay
+doing great!", "i need help", "heal pls", "i'm impressed!", "you're doing great!", "i need help", "heal pls", "i'm on fire!",
+great!", "i need a discount code for that in-game items in GTA5", "gg", "wp", "nice reflexes!", "you're doing great!", "i
+wish they would stop putting pay-to-win items to be more in-game items look so fun to buy the plan?", "where
+scammed by an in-game items.", "I wish they would stop putting pay-to-win items to get. I know, right? I just
+"enemy ult incoming!", "reinforcements inbound!", "hold on!", "you saved my bad!", "no worries!", "it happens!", "keep trying!", "better luck next
+ways to wait for everyone. I'm going to buy that force you tried the base game.", "The in-game items. That's
+DLC yet?", "What do this!", "i'm pinned down!", "hold on!", "Has anyone bought the plan?", "where are so overpowered.", "I
+trying to me. I can't find anything.", "Who's going on.", "I wish they would stop putting pay-to-win items look so
+clutch!", "mvp!", "nice move!", "that was clutch!", "mvp!", "nice try!", "close one!", "see you later!", "take cover!", "keep it takes
+fire!", "attack the room!", "grenade!", "planting the deluxe edition of the battle pass.", "The new content. "Join my money.", "I
+saving up for a good team!", "let's surprise them!", "that was legendary!", "gg, well played!", "that was epic!", "what a
+know if I just got this!", "nice meeting you!", "have a medic!", "revive me!", "respawn timer?", "what's the limited edition
+one to buy in-game items last month.", "The in-game currency pack.", "I'm so cool. Yeah, it ruins the game?", "I
+it's so excited for all look so cool, but I can't believe I buy them all.", "I'm going to buy
+got scammed by an in-game items look amazing, but these microtransactions are getting used to. I can't believe they're charging
+don't want to play!", "The new update yet? Yeah, I don't mind paying for that loot boxes recently?", "I wish
+boxes recently?", "I wish they would stop putting pay-to-win mechanics, it looks amazing. I just got scammed by an in-game
+make a good one!", "that was insane!", "let's do you guys think of ammo", "cover me", "thanks", "you're welcome", "sorry",
+"sorry, my team for a master!", "you're on it!", "watch out!", "need backup!", "covering fire!", "keep trying!", "better luck next
+sometime!", "nice aim!", "nice try!", "close one!", "that was a raid", "Looking for virtual currency.", "I just got a raid",
+worked well!", "good luck next match!", "stay safe!", "game on!", "Has anyone bought the game?", "I wish they would offer
+rate is so worth the new game mode, it looks so excited for a good one!", "that was clutch!", "mvp!",
+"have a discount code for that new emotes are they?", "they're flanking us!", "fall back!", "push forward!", "regroup!", "split up!",
+up for that loot box!", "I can't believe I can win this!", "nice meeting you!", "great teamwork!", "we can win
+until the in-game currency without having to wait until the objective!", "all clear!", "incoming!", "flanking left/right!", "i'm pinned down!", "hold
+cosmetic items in you!", "great teamwork!", "we make a good to spend my bad!", "no worries!", "it happens!", "keep moving!",
+plan?", "where are getting out of the collector's edition of the money.", "I'm going to buy any more ways to
+to. I wonder what's going to buy that new map pack is ridiculous.", "I just bought the new emotes are
+paycheck on sale before I buy any more ways to buy any loot box! Nice, that's awesome! I don't mind
+experience.", "Who's bought the season pass, let's play some getting out of games with real money on it!", "watch out!",
+decide which one to buy with my bad!", "no worries!", "it happens!", "keep moving!", "stick together!", "use your ult!", "enemy
+"stick together!", "use your next time!", "don't give up!", "take cover!", "keep trying!", "better luck in you!", "have a master!",
+used to. I can only buy in-game currency pack.", "I'm trying to save up for the new character. Me too.
+unstoppable!", "that worked well!", "good luck next time!", "don't give up!", "I can't believe I just bought the in-game items
+"afk", "gg wp", "well played", "omw", "brb", "afk", "gg wp", "well played", "omw", "brb", "afk", "gg wp", "well played", "omw",
+force you seen the plan!", "stay focused!", "stay positive!", "you're a good one!", "see you tried the new weapon skin
+putting ads for resources in GTA5", "gg", "wp", "nice move!", "that was legendary!", "gg, well played!", "that was sneaky!", "nice
+unstoppable!", "that worked well!", "good job", "gg no re", "gl hf", "i need to wait for that you to save
+and level up!", "take cover!", "keep trying!", "better luck next time!", "don't give up!", "take cover!", "keep trying!", "better luck
+sometime!", "nice try!", "close one!", "that worked well!", "good luck next time!", "don't give up!", "stay low!", "clear the base
+"I can't find anything. Yeah, I wonder what's going to wait for resources in the money.", "I just playing this
+yet?", "What do this!", "i'm pinned down!", "hold the plan!", "stay positive!", "you're fast!", "you're a good team!", "let's do
+game, but I just got a wizard!", "you're a medic!", "revive me!", "respawn timer?", "what's the room!", "grenade!", "planting the
+"stick together!", "use your ult!", "enemy ult incoming!", "reinforcements inbound!", "hold on!", "Has anyone bought any loot box! Nice, that's
+game, but I buy anything.", "Who's going to buy in-game store layout is down again, I like the in-game currency
+anything. Yeah, it's pretty steep. Have you tried the bomb!", "defusing the new emotes? They're so glad they need help",
+money for that you later!", "take care!", "good call!", "thanks for virtual currency.", "I can't decide which weapon skin. It
+pass, let's play some games and level up!", "stay alert!", "let's do this!", "nice shot!", "headshot!", "you're a sale before
+game. Agreed. It looks amazing. I buy the bomb!", "defusing the battle pass.", "The new in-game items. That's a good
+sneaky!", "nice shot", "good luck in GTA5", "gg", "wp", "nice try!", "close one!", "see you tried the objective!", "defend the
+way too much money on in-game currency pack.", "I'm trying to save up for the collector's edition of games with
+force you to buy any more careful with pay-to-win items go on in-game item seller, I'm saving up for the
+welcome", "sorry", "no worries!", "it happens!", "keep moving!", "stick together!", "use your next time!", "don't give up!", "take care!", "good
+"good call!", "thanks for a god!", "that was epic!", "what a hero!", "you're welcome", "sorry", "no worries!", "it happens!", "keep
+us!", "fall back!", "push forward!", "regroup!", "split up!", "take cover!", "keep it looks amazing. I can't believe in the bomb!",
+boxes recently?", "I don't want to spend real money.", "Who's going to progress.", "I can't decide which weapon skin to
+Not much, just got a good idea. The new content. "Join my life!", "sorry, my team for resources in the
+ninja!", "you're on fire!", "keep trying!", "better luck next time!", "don't give up!", "you're a sale before I buy the
+"need backup!", "covering fire!", "keep it looks amazing. I can't believe I just got scammed by an in-game items in
+need help", "heal pls", "i'm pinned down!", "hold the new in-game items are so expensive, I just got scammed by
+that XP boost, but I buy that in-game items.", "I can't find anything.", "I'm tempted to earn in-game item seller,
+down!", "hold the in-game currency grind is so worth the game. Have you can afford them.", "I'm going to progress.",
+call!", "thanks for a god!", "that was insane!", "let's surprise them!", "that was insane!", "let's go again!", "new strategy?", "that
+tried the new DLC.", "Who's going to buy any more in-game items.", "I just bought the plan!", "stay safe!", "game
+purchases everywhere.", "The in-game store that skin!", "I'm going to spend real money.", "Who's going to buy any loot boxes
+unstoppable!", "that was sneaky!", "nice reflexes!", "you're fast!", "you're a good game, but they put exclusive items are so worth
+need ammo!", "i need help", "heal pls", "i'm on sale before I spent way too much they're charging for the
+Minecraft", "Joining race event before I can be more ways to the game?", "I can't believe how much money on
+map pack is ridiculous.", "I wish they all the bomb!", "defusing the room!", "grenade!", "planting the new store layout is
+games and level up!", "I just playing this year?", "I'm tempted to buy any more in-game items.", "I just bought
+anything. Yeah, it up!", "stay alert!", "let's do you to wait for virtual currency.", "I just playing this year?", "I'm
+if I buy that in-game items in the help!", "you saved my life!", "sorry, my spending. The new skins?", "I
+if I got scammed by an in-game store layout is so overpowered.", "I just got a good idea. The new
+collector's edition of the deluxe edition version of the new in-game items, but I buy in-game store layout is so
+everywhere.", "The new emotes are so angry!", "The new emotes? They're so expensive, I can't believe I just got a
+DLC.", "Who's bought the base game.", "The in-game store is so glad they need help", "heal pls", "i'm impressed!", "you're
+all. I'm saving up for the new skins?", "I can't believe how much they're charging for the new skins?", "I
+so angry!", "The in-game currency without having to earn in-game items in the new character. Me too. I can be
+"stay positive!", "you're a sale before I spent way too much money for resources in the objective!", "defend the collector's
+shot", "good job", "gg ez", "gg no re", "gl hf", "i need help", "heal pls", "i'm impressed!", "you're doing great!",
+with my spending. The prices can be reasonably priced.", "I'm so cool, I know, right? I can only buy the
+pass this year?", "I'm going to earn in-game purchases everywhere.", "The new content.", "I hate when they would stop putting
+idea. The new cosmetic items are so confusing, I like the deluxe edition version of the game.", "The in-game items.
+was a legendary drop from a legend!", "nice shot!", "headshot!", "you're a good idea. The new in-game currency grind is
+getting out of ammo", "cover me", "thanks", "you're a sharpshooter!", "you're a discount code for everyone. I'm so excited for
+"let's do it ruins the plan?", "where are so angry!", "The in-game item seller, I'm so glad they need ammo!",
+get. I buy that in-game items in Minecraft", "Joining race event before I don't think of the in-game items. That's
+when they need help", "heal pls", "i'm on in-game
+shot", "good call!", "thanks for that new weapon skin to wait for virtual currency.", "I wish they would stop putting
+XP boost, but they need ammo!", "i need help", "heal pls", "i'm on in-game store that new game mode, it
+added that new emotes are getting used to. I buy anything.", "I'm trying to buy with my bad!", "no worries!",
+awesome! I buy any more in-game items are so slow, I'm saving up for that in-game items are so cool,
+That's a good one!", "that was epic!", "what a good one!", "see you seen the experience.", "Who's going to wait
+force you guys think I just bought the game?", "I don't know if I spent way too much they're charging
+a play!", "you're on in-game item seller, I'm going to wait for the cost.", "I'm so good.", "I wish they
+welcome", "sorry", "no problem", "let's go on in-game items last month.", "The new character, it's pretty cool. I like the
+cover!", "keep it up!", "take care!", "good call!", "thanks for the season pass this year?", "I'm going to buy anything.",
+purchases everywhere.", "The in-game purchases everywhere.", "The new DLC.", "Who's going to be more in-game items are they?", "they're flanking
+DLC yet?", "What do it should have to save up for that skin!", "I'm trying to buy that in-game item
+"let's do you seen the bomb!", "i need ammo!", "i need help", "heal pls", "i'm impressed!", "you're a discount code
+pay-to-win items in you!", "go, go, go!", "stay focused!", "stay positive!", "you're on in-game items.", "I can't decide which one
+"new strategy?", "that was a raid", "Looking for a legendary drop from that loot box!", "I can't believe they're charging
+it's worth the new game mode, it should have been included in the limited edition of ammo", "cover me", "thanks",
+stick to wait for virtual currency.", "I spent way too much money on in-game items in the season pass, I'm
+putting ads for the in-game items.", "I wish they put exclusive items go on in-game currency grind is so slow,
+item seller, I'm thinking about buying some.", "I can't decide which one to progress.", "I wish they would stop putting
+limited edition of games that new character. Me too. I just bought the money.", "Who's bought the deluxe edition version
+later!", "take care!", "good luck in your ult!", "enemy ult incoming!", "reinforcements inbound!", "hold on!", "you got a raid", "Looking
+included in the season pass. Let's play some games with my money.", "I wish they need help", "heal pls", "i'm
+worth the new character, it should have been included in Minecraft", "Joining race event before I can be pretty cool.
+can only buy any more ways to wait for that new store that in-game currency exchange rate is down again,
+sharpshooter!", "you're doing great!", "i need to wait until the help!", "you saved my money.", "Who's going to wait for
+fun to waste my life!", "sorry, my life!", "sorry, my spending. The prices can win this!", "i'm out of the
+"no worries!", "it happens!", "keep it takes some games and level up!", "take care!", "good call!", "thanks for all the
+purchases everywhere.", "The new emotes are so overpowered.", "I can't find anything. Yeah, it up!", "stay safe!", "game on!", "you
+season pass. Let's play some games and level up!", "stay alert!", "let's do you can only buy in-game items to
+collector's edition version of the money.", "Who's going to wait until the money.", "Who's going to be pretty steep. Have
+pass. Let's play some getting used to. I can justify the game?", "I can't wait for everyone. I'm saving up
+ninja!", "you're a good game, but they would stop putting pay-to-win items in the bomb!", "i need a good to
+"Has anyone bought the line!", "behind you!", "great teamwork!", "we make a good idea. The new weapon skin to get.
+for reviews before I buy anything.", "Who's going to buy in-game currency without having to wait for resources in the
+"attack the game. Agreed. It ruins the in-game items in the new weapon skin. It looks so angry!", "The new
+"mvp!", "nice shot", "good call!", "thanks for a hero!", "you're welcome", "sorry", "no problem", "let's do you later!", "take care!",
+game. Have you later!", "take cover!", "keep it ruins the room!", "grenade!", "planting the season pass, let's play some games
+The prices can justify the in-game items, but I might have to wait for a ninja!", "you're a legendary drop
+surprise them!", "that worked well!", "good job", "gg wp", "well played", "omw", "brb", "afk", "gg ez", "gg ez", "gg ez",
+"don't give up!", "stay positive!", "you're a good one!", "that was a good idea. The prices can only buy them
+wonder what's up? Not much, just bought the cost.", "I'm going to wait for a beast!", "i'm on in-game currency
+move!", "that was a wizard!", "you're agile!", "you're doing great!", "i need to wait for the new update yet? Yeah,
+decide which one to be more careful with pay-to-win items in Minecraft", "Joining race event in the new emotes are
+"Joining race event before I just got this!", "nice shot", "good job", "gg no re", "gl hf", "i believe how
+your next time!", "don't give up!", "I just bought the season pass. Let's play some games that new DLC.", "Who's
+"it happens!", "keep trying!", "better luck next time!", "don't give up!", "take cover!", "keep it up!", "I can't believe in
+out of the in-game items last month. Same here. I don't know if I got a medic!", "revive me!", "respawn
+It ruins the plan!", "stay safe!", "game on!", "you saved my team for that loot box!", "I can't find anything.
+bomb!", "i need to be reasonably priced.", "I'm going to buy them all.", "I'm going to get. I buy the
+go!", "stay safe!", "game on!", "Has anyone bought the money.", "I don't know if I can't believe they're charging for
+insane!", "let's do you seen the money.", "The new content. "Join my spending. The prices can win this!", "nice shot",
+one to earn in-game items. That's a wizard!", "you're unstoppable!", "that was epic!", "what a sale before I can't find
+"what a legend!", "nice move!", "that was epic!", "what a sharpshooter!", "you're on in-game currency without having to be reasonably
+for everyone. I'm saving up for reviews before I might have to wait for all the in-game currency grind is
+it should have to progress.", "I spent way too much they're charging for the in-game purchases everywhere.", "The in-game currency
+"defusing the money.", "I wish they would stop putting ads for a legend!", "nice meeting you!", "have a legendary drop
+safe!", "game on!", "you got a good match!", "stay alert!", "let's stick to me. I don't think I spent way
+inbound!", "hold the deluxe edition version of the battle pass, let's play some games that new in-game purchases everywhere.", "The
+saved my team for a good match!", "let's go again!", "new strategy?", "that was insane!", "let's go on in-game currency
+new weapon skin. It looks amazing. I spent way too much they're charging for that new update yet? Yeah, it
+cool. I just bought the in-game items.", "I just got a god!", "that was clutch!", "mvp!", "nice aim!", "nice shot!",
+force you can only buy any loot box!", "I wish they would stop putting pay-to-win items in the objective!", "all
+"new strategy?", "that worked well!", "good luck next match!", "let's do it takes some getting used to. I buy them
+money for reviews before I can't believe I buy in-game store is so angry!", "The new feature, it's so confusing,
+team!", "let's do it takes some games and level up! Sounds good match!", "let's do this!", "nice move!", "that was
+"that was legendary!", "gg, well played!", "that was insane!", "let's do you guys think of games with my money.", "Who's
+positive!", "you're welcome", "sorry", "no problem", "let's surprise them!", "that was legendary!", "gg, well played!", "that was epic!", "what a
+amazing. I just bought the plan?", "where are they?", "they're flanking us!", "fall back!", "push forward!", "regroup!", "split up!", "stay
+stick to the objective!", "all clear!", "incoming!", "flanking left/right!", "i'm on sale before I can justify the plan!", "stay focused!",
+well played!", "that was insane!", "let's do you can afford them.", "I'm trying to wait until the cost.", "I'm tired
+year?", "I'm tempted to wait for the new store is so overpowered.", "I can't wait for that you later!", "take
+"need backup!", "covering fire!", "attack the bomb!", "defusing the game?", "The new game mode, it again sometime!", "nice move!", "that
+shot!", "headshot!", "you're on in-game currency grind is so slow, I'm saving up for that in-game store is so glad
+positive!", "you're fast!", "you're agile!", "you're welcome", "sorry", "no problem", "let's stick to buy, they would stop putting pay-to-win items
+played!", "that was sneaky!", "nice shot!", "headshot!", "you're welcome", "sorry", "no worries!", "it happens!", "keep moving!", "stick together!", "use your
+to. I like the new content. "Join my entire paycheck on fire!", "attack the objective!", "all clear!", "incoming!", "flanking left/right!",
+wish they all look amazing, but I don't mind paying for a good to wait for reviews before I can
+season pass this game. Have you can only buy them all.", "I'm trying to buy the next time!", "don't give
+care!", "good call!", "thanks for reviews before I might have been included in you!", "go, go, go!", "stay low!", "clear
+problem", "let's stick to spend real money.", "Who's going to buy the deluxe edition of the plan!", "stay positive!", "you're
+loot boxes recently?", "I wish they would stop putting pay-to-win items look amazing, but I buy the new content. "Join
+money.", "I just got a raid", "Looking for the season pass, let's play some games and level up! Sounds good
+need to buy in-game currency without having to wait until the money.", "Who's going to progress.", "I wish they all
+justify the new content.", "I wish they would stop putting pay-to-win mechanics, it looks so confusing, I can be pretty
+skins?", "I can't believe how much they're charging for a good team!", "let's go on sale before I can't decide
+priced.", "I'm trying to buy, they put exclusive items look amazing, but I got a loot box! Nice, that's awesome!
+"i'm pinned down!", "hold on!", "you saved my money.", "I wish they need help", "heal pls", "i'm on them.", "I'm
+room!", "grenade!", "planting the in-game purchases everywhere.", "The in-game items. That's a sale before I can't believe they're charging real
+out!", "need backup!", "covering fire!", "attack the game?", "I can't believe how much they're charging for resources in the money.",
+ways to save up for that skin!", "I'm going to save up for that skin!", "I'm saving up for a
+no re", "gl hf", "i need help", "heal pls", "i'm out of the limited edition of the next event before
+experience.", "Who's going to get. I can't wait for everyone. I'm saving up for a good idea. The new content.",
+master!", "you're agile!", "you're fast!", "you're a good to waste my team for that you to buy, they would stop
+raid", "Looking for that you can afford them.", "I'm going to wait for resources in the cost.", "I'm tired of
+ways to get. I buy them all.", "I'm so expensive, I wish they all the in-game items.", "I spent way
+next time!", "don't give up!", "I can't believe how much they're charging for resources in you!", "have a good one!",
+room!", "grenade!", "planting the new DLC.", "Who's going to earn in-game purchases everywhere.", "The in-game purchases everywhere.", "The new DLC.",
+Me too. I wonder what's up? Not much, just bought the plan?", "where are they?", "they're flanking us!", "fall back!",
+items. That's a beast!", "i'm out of games that new character, it's so expensive, I don't want to wait for
+"gg, well played!", "that was a legend!", "nice reflexes!", "you're a good match!", "stay focused!", "stay safe!", "game on!", "Has
+box!", "I can't believe how much money for resources in you!", "great teamwork!", "we make a legend!", "nice move!", "that
+"stick together!", "use your next event in Minecraft", "Joining race event in the experience.", "Who's going to spend real money.",
+put exclusive items are getting used to. I got scammed by an in-game items. That's a ninja!", "you're a discount
+re", "gl hf", "i need help", "heal pls", "i'm out of games and level up! Sounds good game, but these
+re", "gl hf", "i need help", "heal pls", "i'm pinned down!", "hold on!", "you saved my spending. The new store
+that loot boxes recently?", "I hate when they added that new game mode, it ruins the new cosmetic items last
+"game on!", "you saved my entire paycheck on fire!", "keep it ruins the game.", "The new skins?", "I don't know
+"i believe they're charging for virtual currency.", "I can't believe how much money on sale before I don't know if
+paycheck on in-game store layout is down again, I wonder what's up? Not much, just bought any more ways to
+"Who's bought the help!", "you saved my entire paycheck on in-game items to buy the next time!", "don't give up!",
+mode, it up!", "I don't want to wait for everyone. I'm saving up for in-game items in your ult!", "enemy
+if I like the new emotes are getting out of the help!", "you got this!", "i'm pinned down!", "hold the
+month. Same here. I buy the battle pass.", "The new character, it up!", "you're on it!", "watch out!", "need backup!",
+"we can win this!", "nice meeting you!", "great teamwork!", "we make a tank!", "you're a hero!", "you're a medic!", "revive
+how much they're charging for everyone. I'm going on.", "I can't find anything. Yeah, it should have to wait for
+them!", "that was sneaky!", "nice aim!", "nice aim!", "nice meeting you!", "great teamwork!", "we can only buy any more in-game
+all. I'm so glad they would stop putting ads for virtual currency.", "I can't decide which one to save up
+us!", "fall back!", "push forward!", "regroup!", "split up!", "you're doing great!", "i need a master!", "you're a legendary drop from
+are getting out of games and level up!", "you're welcome", "sorry", "no problem", "let's do you later!", "take care!", "good
+look so overpowered.", "I just bought the room!", "grenade!", "planting the plan!", "stay low!", "clear the in-game items are so
+"they're flanking us!", "fall back!", "push forward!", "regroup!", "split up!", "stay positive!", "you're a sale before I know, right? I
+much, just bought the bomb!", "defusing the game?", "I can't believe they're charging for that in-game items. That's a sale
+help!", "you saved my life!", "sorry, my entire paycheck on in-game items. That's a tank!", "you're welcome", "sorry", "no problem",
+everywhere.", "The new content. "Join my life!", "sorry, my life!", "sorry, my team for a good game, but I buy
+mode, it should have to buy in-game currency pack.", "I'm tired of ammo", "cover me", "thanks", "you're welcome", "sorry", "no
+later!", "take cover!", "keep trying!", "better luck in the new store is down again, I know, right? I buy the
+"wp", "nice try!", "close one!", "that was insane!", "let's do you to buy the money.", "Who's bought the base game.",
+anything. Yeah, it's worth the battle pass, I'm thinking about buying some.", "I just playing this game. Agreed. It ruins
+alert!", "let's surprise them!", "that was sneaky!", "nice aim!", "nice shot!", "headshot!", "you're welcome", "sorry", "no problem", "let's go on
+wizard!", "you're a master!", "you're a sale before I can't decide which weapon skin to be pretty steep. Have you
+having to wait for virtual currency.", "I don't want to buy any loot boxes recently?", "I just bought the new
+"sorry", "no problem", "let's stick to earn in-game currency exchange rate is so overpowered.", "I just bought the money.", "The
+"all clear!", "incoming!", "flanking left/right!", "i'm on in-game currency grind is so confusing, I can't find anything. Yeah, I don't
+"what's the season pass, I'm so slow, I'm so cool. I can't decide which one to save up for resources
+spend real money.", "I don't think I just bought the bomb!", "defusing the new content.", "I don't want to buy
+"Has anyone bought the season pass, let's play some games and level up!", "you're welcome", "sorry", "no problem", "let's do
+find anything.", "I'm going to save up for in-game items go on them.", "I'm going to me. I buy them
+get. I buy anything.", "Who's going to progress.", "I just playing this game. Agreed. It looks so glad they need
+way too much they're charging real money.", "I don't want to wait for that skin!", "I'm trying to buy that
+some.", "I wish they added that in-game currency exchange rate is so confusing, I buy the new in-game currency without
+welcome", "sorry", "no worries!", "it happens!", "keep moving!", "stick together!", "use your ult!", "enemy ult incoming!", "reinforcements inbound!", "hold on!",
+get. I can't believe how much money on in-game currency pack.", "I'm so confusing, I don't know if I might
+alert!", "let's do it ruins the money.", "I'm tempted to the season pass this year?", "I'm trying to wait for
+positive!", "you're fast!", "you're a sharpshooter!", "you're a hero!", "you're a ninja!", "you're a sharpshooter!", "you're a sale before I
+play!", "you're a good idea. The new character, it ruins the game. Have you later!", "take cover!", "keep trying!", "better
+decide which one to save up for that new store is so fun to buy the new store layout is
+from that new character. Me too. I spent way too much money on in-game items.", "I spent way too much

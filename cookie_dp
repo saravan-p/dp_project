@@ -1,0 +1,31 @@
+import pandas as pd
+import matplotlib.pyplot as plt
+
+def truncate_cookie_id(cookie_id, truncation_length):
+    return cookie_id[:-truncation_length]
+
+def utility_metric(truncated_cookie_ids):
+    return len(set(truncated_cookie_ids))
+
+# Load the dataset
+data = pd.read_csv('synthetic_dataset.csv')
+cookie_ids = data['Cookie_ID']
+
+# Define truncation lengths
+truncation_lengths = list(range(1, len(cookie_ids[0])))
+
+# Calculate the utility metric for each truncation length
+utility_metrics = []
+
+for truncation_length in truncation_lengths:
+    truncated_cookie_ids = [truncate_cookie_id(cookie_id, truncation_length) for cookie_id in cookie_ids]
+    unique_count = utility_metric(truncated_cookie_ids)
+    utility_metrics.append(unique_count)
+
+# Plot the utility vs privacy graph
+plt.plot(truncation_lengths, utility_metrics)
+plt.xlabel('Privacy (Truncation Length)')
+plt.ylabel('Utility (Number of Unique Truncated Cookie_IDs)')
+plt.title('Utility vs Privacy for Cookie_IDs in synthetic_dataset.csv')
+plt.grid(True)
+plt.show()
